@@ -1,0 +1,47 @@
+[
+  {
+    "materia": "Biología",
+    "pregunta": "¿Organelo celular donde se lleva a cabo la respiración?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "materia": "Historia de México",
+    "pregunta": "¿Año en que inició la Independencia de México?",
+    "opciones": {
+      "a": "1810",
+      "b": "1821",
+      "c": "1808",
+      "d": "1857"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Literatura",
+    "pregunta": "¿Autor de 'La Divina Comedia'?",
+    "opciones": {
+      "a": "Dante Alighieri",
+      "b": "Shakespeare",
+      "c": "Homero",
+      "d": "Virgilio"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Organelo celular donde se lleva a cabo la fotosíntesis?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "a"
+  }
+]
+
