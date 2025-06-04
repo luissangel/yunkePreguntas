@@ -12,9 +12,10 @@ struct MenuMateriasView: View {
     var body: some View {
         NavigationView {
             List(materias, id: \.self) { materia in
-                NavigationLink(destination: VistaPregunta(manager: PreguntaManager(materia: materia))) {
+                NavigationLink(destination: SeleccionCantidadView(materia: materia)) {
                     Text(materia)
                 }
+
             }
             .navigationTitle("Elige una materia")
         }

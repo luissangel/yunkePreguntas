@@ -42,6 +42,94 @@
       "d": "Lisosoma"
     },
     "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Elementos para la vida?",
+    "opciones": {
+      "a": "Au",
+      "b": "CHON",
+      "c": "Pb",
+      "d": "Ag"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿cual es una biomolecula?",
+    "opciones": {
+      "a": "Agua",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Tiene informacion getentica?",
+    "opciones": {
+      "a": "ADN",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Sintetiza proteinas?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Reticulo",
+      "c": "Mitocondria",
+      "d": "Ribosoma"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿azucar del ARN?",
+    "opciones": {
+      "a": "Ribosa",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Reproduccion de gametos?",
+    "opciones": {
+      "a": "Meiosis",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Uracilo es de ?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Ribosoma",
+      "c": "ARN",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Evolucion?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Ribosoma",
+      "c": "Mitocondria",
+      "d": "Darwin"
+    },
+    "respuesta_correcta": "d"
   }
 ]
 

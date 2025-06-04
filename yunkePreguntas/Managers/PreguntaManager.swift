@@ -9,18 +9,30 @@ import Foundation
 class PreguntaManager: ObservableObject {
     @Published var preguntas: [Pregunta] = []
     @Published var preguntaActual: Pregunta?
-    
-    init(materia: String) {
-        self.preguntas = cargarPreguntas().filter { $0.materia == materia }
+    @Published var preguntasContestadas = 0
+    @Published var aciertos = 0
+    var limitePreguntas: Int
+
+    init(materia: String, cantidad: Int) {
+        self.limitePreguntas = cantidad
+        self.preguntas = cargarPreguntas().filter { $0.materia == materia }.shuffled().prefix(cantidad).map { $0 }
         print("✅ Preguntas encontradas para \(materia): \(preguntas.count)")
         siguientePregunta()
     }
-    
+
     func siguientePregunta() {
-        if preguntas.isEmpty { return }
-        preguntaActual = preguntas.randomElement()
+        if preguntas.isEmpty {
+            preguntaActual = nil
+            return
+        }
+        preguntaActual = preguntas.removeFirst()
     }
-    
+
+    func responder(correcta: Bool) {
+        preguntasContestadas += 1
+        if correcta { aciertos += 1 }
+    }
+
     private func cargarPreguntas() -> [Pregunta] {
         guard let url = Bundle.main.url(forResource: "preguntas", withExtension: "json") else {
             print("❌ Archivo no encontrado")
@@ -37,7 +49,6 @@ class PreguntaManager: ObservableObject {
             return []
         }
     }
-
-
 }
+
 
