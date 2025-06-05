@@ -1,15 +1,5 @@
 [
-  {
-    "materia": "Biología",
-    "pregunta": "¿Organelo celular donde se lleva a cabo la respiración?",
-    "opciones": {
-      "a": "Cloroplasto",
-      "b": "Ribosoma",
-      "c": "Mitocondria",
-      "d": "Lisosoma"
-    },
-    "respuesta_correcta": "c"
-  },
+  
   {
     "materia": "Historia de México",
     "pregunta": "¿Año en que inició la Independencia de México?",
@@ -32,6 +22,19 @@
     },
     "respuesta_correcta": "a"
   },
+
+  {
+      "materia": "Biología",
+      "pregunta": "¿Organelo celular donde se lleva a cabo la respiración?",
+      "opciones": {
+        "a": "Cloroplasto",
+        "b": "Ribosoma",
+        "c": "Mitocondria",
+        "d": "Lisosoma"
+      },
+      "respuesta_correcta": "c"
+    },
+  
   {
     "materia": "Biología",
     "pregunta": "¿Organelo celular donde se lleva a cabo la fotosíntesis?",
@@ -45,18 +48,18 @@
   },
   {
     "materia": "Biología",
-    "pregunta": "¿Elementos para la vida?",
+    "pregunta": "¿Elementos necesarios para la vida?",
     "opciones": {
-      "a": "Au",
-      "b": "CHON",
-      "c": "Pb",
-      "d": "Ag"
+      "a": "Au,C,Na,S,P,Ag",
+      "b": "C,H,O,N,S,P",
+      "c": "Pb,C,H,O,Zn,Si",
+      "d": "Ag,C,H,N,Ar,Na"
     },
     "respuesta_correcta": "b"
   },
   {
     "materia": "Biología",
-    "pregunta": "¿cual es una biomolecula?",
+    "pregunta": "¿Cuál de las siguientes es una biomolécula?",
     "opciones": {
       "a": "Agua",
       "b": "Ribosoma",
@@ -67,12 +70,12 @@
   },
   {
     "materia": "Biología",
-    "pregunta": "¿Tiene informacion getentica?",
+    "pregunta": "¿Contiene informacion getentica?",
     "opciones": {
       "a": "ADN",
-      "b": "Ribosoma",
-      "c": "Mitocondria",
-      "d": "Lisosoma"
+      "b": "Núcleo",
+      "c": "Proteínas",
+      "d": "Vitaminas"
     },
     "respuesta_correcta": "a"
   },
@@ -94,42 +97,889 @@
       "a": "Ribosa",
       "b": "Ribosoma",
       "c": "Mitocondria",
-      "d": "Lisosoma"
+      "d": "Desoxiribosa"
     },
     "respuesta_correcta": "a"
   },
   {
     "materia": "Biología",
-    "pregunta": "¿Reproduccion de gametos?",
+    "pregunta": "¿Qué tipo de enlace se encuentra en las proteínas?",
     "opciones": {
-      "a": "Meiosis",
-      "b": "Ribosoma",
-      "c": "Mitocondria",
-      "d": "Lisosoma"
-    },
-    "respuesta_correcta": "a"
-  },
-  {
-    "materia": "Biología",
-    "pregunta": "¿Uracilo es de ?",
-    "opciones": {
-      "a": "Cloroplasto",
-      "b": "Ribosoma",
-      "c": "ARN",
-      "d": "Lisosoma"
+      "a": "Enlace amino",
+      "b": "Enlace covalente",
+      "c": "Enlace peptídico",
+      "d": "Enlace metálico"
     },
     "respuesta_correcta": "c"
   },
   {
     "materia": "Biología",
-    "pregunta": "¿Evolucion?",
+    "pregunta": "¿Cuál es la función principal de los lípidos?",
     "opciones": {
-      "a": "Cloroplasto",
-      "b": "Ribosoma",
+      "a": "Transporte de oxígeno",
+      "b": "Reserva de energía",
+      "c": "Síntesis de proteínas",
+      "d": "Transmisión de impulsos nerviosos"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Qué sucede en el catabolismo?",
+    "opciones": {
+      "a": "Sustancias simples se combinan para formar sustancias complejas",
+      "b": "Energía es almacenada en moléculas de ATP",
+      "c": "Sustancias complejas se degradan para convertirse en sustancias más simples",
+      "d": "Nutrientes son transportados a través del cuerpo"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Qué organelo tiene la función de transportar moléculas intracelularmente?",
+    "opciones": {
+      "a": "Núcleo",
+      "b": "Lisosoma",
       "c": "Mitocondria",
-      "d": "Darwin"
+      "d": "Retículo endoplásmico"
     },
     "respuesta_correcta": "d"
-  }
+  },
+  {
+    "materia": "Biología",
+    "pregunta": "¿Cuál es el organelo responsable de la síntesis de ATP?",
+    "opciones": {
+      "a": "Cloroplasto",
+      "b": "Retículo endoplásmico",
+      "c": "Mitocondria",
+      "d": "Lisosoma"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+      "materia": "Biología",
+      "pregunta": "¿Qué organismos no tienen membrana nuclear ni mitocondrial?",
+      "opciones": {
+        "a": "Eucariontes",
+        "b": "Virus",
+        "c": "Procariontes",
+        "d": "Hongos"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuántos cromosomas tienen las células de la piel?",
+      "opciones": {
+        "a": "23",
+        "b": "46",
+        "c": "22",
+        "d": "44"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuáles son las etapas que constituyen la interfase?",
+      "opciones": {
+        "a": "M, G1, S",
+        "b": "G1, S, G2",
+        "c": "G2, S, M",
+        "d": "S, G1, G2"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuántos cromosomas tienen las células haploides?",
+      "opciones": {
+        "a": "46",
+        "b": "23",
+        "c": "22",
+        "d": "44"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuántos cromosomas tienen las células diploides?",
+      "opciones": {
+        "a": "23",
+        "b": "22",
+        "c": "46",
+        "d": "44"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuántas células hijas se obtienen en la meiosis?",
+      "opciones": {
+        "a": "2 células",
+        "b": "4 células",
+        "c": "6 células",
+        "d": "8 células"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Son células haploides?",
+      "opciones": {
+        "a": "Neutrófilos",
+        "b": "Eritrocitos",
+        "c": "Gametos",
+        "d": "Fibroblastos"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Qué corresponde a la apariencia externa de un individuo?",
+      "opciones": {
+        "a": "Genotipo",
+        "b": "Fenotipo",
+        "c": "Genoma",
+        "d": "Alelo"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuál es la relación entre organismos donde ambos se ven beneficiados?",
+      "opciones": {
+        "a": "Mutualismo",
+        "b": "Parasitismo",
+        "c": "Comensalismo",
+        "d": "Simbiosis"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Biología",
+      "pregunta": "¿Cuáles son ejemplos de factores abióticos?",
+      "opciones": {
+        "a": "Luz solar, agua y plantas",
+        "b": "Temperatura, suelo y nutrientes",
+        "c": "Plantas, animales y hongos",
+        "d": "Clima, clorofila y fotosíntesis"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+        "materia": "Biología",
+        "pregunta": "¿Cómo se llama a la interacción de los seres vivos y factores no vivos en el medio?",
+        "opciones": {
+          "a": "Hábitat",
+          "b": "Biotopo",
+          "c": "Ecosistema",
+          "d": "Bioma"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿En la cadena trófica qué se transforma?",
+        "opciones": {
+          "a": "Materia",
+          "b": "Energía",
+          "c": "Oxígeno",
+          "d": "Carbono"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿En su primera generación, cómo llama Mendel al carácter que se manifiesta?",
+        "opciones": {
+          "a": "Recesivo",
+          "b": "Intermedio",
+          "c": "Dominante",
+          "d": "Neutral"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Qué reino incluye a los procariontes?",
+        "opciones": {
+          "a": "Protista",
+          "b": "Monera",
+          "c": "Fungi",
+          "d": "Plantae"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Característica de la fecundación?",
+        "opciones": {
+          "a": "Duplicación celular",
+          "b": "Formación de muchos gametos",
+          "c": "Producción de esporas",
+          "d": "Crecimiento del embrión"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Proceso por el que las células reciben energía?",
+        "opciones": {
+          "a": "Fotosíntesis",
+          "b": "Respiración",
+          "c": "Fermentación",
+          "d": "Metabolismo"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Las mutaciones a qué favorecen?",
+        "opciones": {
+          "a": "Extinción",
+          "b": "Adaptación inmediata",
+          "c": "Evolución",
+          "d": "Estabilidad genética"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Proceso donde se rompe la glucosa y da como resultado CO2?",
+        "opciones": {
+          "a": "Fotosíntesis",
+          "b": "Respiración aerobia",
+          "c": "Fermentación láctica",
+          "d": "Glicólisis"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Fase del ciclo celular donde se replican los cromosomas?",
+        "opciones": {
+          "a": "G1",
+          "b": "S",
+          "c": "G2",
+          "d": "Mitosis"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Biología",
+        "pregunta": "¿Cuáles son los dominios que establece Carl Woese?",
+        "opciones": {
+          "a": "Bacteria, Animalia y Plantae",
+          "b": "Eukarya, Fungi y Protista",
+          "c": "Archea, Bacteria y Eukarya",
+          "d": "Monera, Archea y Eukarya"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+          "materia": "Biología",
+          "pregunta": "¿Postulado principal de Darwin-Wallace?",
+          "opciones": {
+            "a": "Herencia de caracteres adquiridos",
+            "b": "Mutaciones espontáneas",
+            "c": "Selección natural",
+            "d": "Deriva genética"
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Relación cuando dos organismos se benefician?",
+          "opciones": {
+            "a": "Comensalismo",
+            "b": "Parasitismo",
+            "c": "Mutualismo",
+            "d": "Competencia"
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Qué sucede en la interfase?",
+          "opciones": {
+            "a": "División celular",
+            "b": "Crecimiento inicial, duplicación de DNA y crecimiento final",
+            "c": "Condensación de cromosomas",
+            "d": "Separación de cromátides"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿La reproducción sexual se caracteriza por?",
+          "opciones": {
+            "a": "Bipartición",
+            "b": "Fisión binaria",
+            "c": "Fusión de células haploides especializadas",
+            "d": "Producción de clones"
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Cómo se llama cuando se pierde un solo fragmento de cromosoma?",
+          "opciones": {
+            "a": "Inversión",
+            "b": "Translocación",
+            "c": "Duplicación",
+            "d": "Delección"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Lugar que ocupa un gen en el cromosoma?",
+          "opciones": {
+            "a": "Alelo",
+            "b": "Locus",
+            "c": "Céntrico",
+            "d": "Telómero"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Dónde se lleva a cabo la respiración aerobia?",
+          "opciones": {
+            "a": "Cloroplasto",
+            "b": "Mitocondria",
+            "c": "Ribosoma",
+            "d": "Retículo endoplásmico"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Molécula inorgánica termorreguladora?",
+          "opciones": {
+            "a": "Dióxido de carbono",
+            "b": "Oxígeno",
+            "c": "Agua",
+            "d": "Nitrógeno"
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Cuándo surgieron las primeras células?",
+          "opciones": {
+            "a": "Paleozoico",
+            "b": "Precámbrico",
+            "c": "Mesozoico",
+            "d": "Cenozoico"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "materia": "Biología",
+          "pregunta": "¿Quién organiza los cromosomas en la división celular?",
+          "opciones": {
+            "a": "Centriolo",
+            "b": "Huso acromático",
+            "c": "Núcleo",
+            "d": "Cromátides"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+            "materia": "Biología",
+            "pregunta": "¿Vitamina para prevenir la anemia?",
+            "opciones": {
+              "a": "Vitamina C",
+              "b": "Vitamina D",
+              "c": "Vitamina B12",
+              "d": "Vitamina A"
+            },
+            "respuesta_correcta": "c"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Qué produce la muerte de algas?",
+            "opciones": {
+              "a": "Aumento de CO2",
+              "b": "Reducción de O2",
+              "c": "Incremento de nutrientes",
+              "d": "Exceso de luz solar"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Organelo para la síntesis de ATP?",
+            "opciones": {
+              "a": "Cloroplasto",
+              "b": "Mitocondria",
+              "c": "Ribosoma",
+              "d": "Núcleo"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Relación entre organismos de la misma especie?",
+            "opciones": {
+              "a": "Simbiótica",
+              "b": "Intraespecíficos",
+              "c": "Interespecíficos",
+              "d": "Parasitismo"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿No tienen membrana nuclear ni mitocondria?",
+            "opciones": {
+              "a": "Eucariontes",
+              "b": "Procariontes",
+              "c": "Virus",
+              "d": "Algas"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Qué da la fotosíntesis al hombre?",
+            "opciones": {
+              "a": "Oxígeno y glucosa",
+              "b": "Agua y dióxido de carbono",
+              "c": "Energía solar y vapor de agua",
+              "d": "Oxígeno y nitrógeno"
+            },
+            "respuesta_correcta": "a"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Qué ayuda a la evolución de las especies?",
+            "opciones": {
+              "a": "Migración y adaptación",
+              "b": "Divergencia y mutaciones",
+              "c": "Selección natural y hibridación",
+              "d": "Competencia y extinción"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Principal función de los lípidos?",
+            "opciones": {
+              "a": "Formar estructuras celulares",
+              "b": "Regular la temperatura",
+              "c": "Almacenar energía",
+              "d": "Transportar oxígeno"
+            },
+            "respuesta_correcta": "c"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿Etapa de la meiosis donde los cromosomas homólogos intercambian información?",
+            "opciones": {
+              "a": "Metafase I",
+              "b": "Anafase I",
+              "c": "Profase I",
+              "d": "Telofase II"
+            },
+            "respuesta_correcta": "c"
+          },
+          {
+            "materia": "Biología",
+            "pregunta": "¿De dónde se obtiene el O2 en la fase luminosa de la fotosíntesis?",
+            "opciones": {
+              "a": "De la respiración",
+              "b": "Fotólisis del H2O",
+              "c": "Descomposición de glucosa",
+              "d": "Oxidación de azúcares"
+            },
+            "respuesta_correcta": "b"
+          },
+          {
+              "materia": "Biología",
+              "pregunta": "¿Elemento presente en las proteínas?",
+              "opciones": {
+                "a": "Carbono",
+                "b": "Hidrógeno",
+                "c": "Nitrógeno",
+                "d": "Oxígeno"
+              },
+              "respuesta_correcta": "c"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿El decir que la glucólisis es anaeróbica significa?",
+              "opciones": {
+                "a": "Que no produce ATP",
+                "b": "Que no requiere oxígeno",
+                "c": "Que ocurre en la mitocondria",
+                "d": "Que necesita luz"
+              },
+              "respuesta_correcta": "b"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Para qué sirve el ADN y su estructura?",
+              "opciones": {
+                "a": "Producción de energía",
+                "b": "Transferencia de información genética",
+                "c": "Síntesis de proteínas",
+                "d": "Transporte de nutrientes"
+              },
+              "respuesta_correcta": "b"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Qué significa un cambio ordenado y gradual a lo largo del tiempo?",
+              "opciones": {
+                "a": "Transformación",
+                "b": "Adaptación",
+                "c": "Evolución",
+                "d": "Reproducción"
+              },
+              "respuesta_correcta": "c"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿En la atmósfera primitiva qué estructura se desarrolló para permitir la diferencia entre medio externo e interno?",
+              "opciones": {
+                "a": "Núcleo",
+                "b": "Membrana celular",
+                "c": "Citoplasma",
+                "d": "Pared celular"
+              },
+              "respuesta_correcta": "b"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Clasificación de organismos por sus características similares y por su historia evolutiva?",
+              "opciones": {
+                "a": "Taxonomía",
+                "b": "Biología",
+                "c": "Ecología",
+                "d": "Fisiología"
+              },
+              "respuesta_correcta": "a"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Molécula que se rompe en metabolismo y libera energía?",
+              "opciones": {
+                "a": "Proteínas",
+                "b": "Lípidos",
+                "c": "Carbohidratos",
+                "d": "Ácidos nucleicos"
+              },
+              "respuesta_correcta": "c"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Células con organelos bien definidos?",
+              "opciones": {
+                "a": "Procarionte",
+                "b": "Eucarionte",
+                "c": "Híbridas",
+                "d": "Clonadas"
+              },
+              "respuesta_correcta": "b"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Quién estudia la herencia del organismo?",
+              "opciones": {
+                "a": "Biología",
+                "b": "Genética",
+                "c": "Fisiología",
+                "d": "Ecología"
+              },
+              "respuesta_correcta": "b"
+            },
+            {
+              "materia": "Biología",
+              "pregunta": "¿Cómo era la atmósfera primitiva?",
+              "opciones": {
+                "a": "Oxidante",
+                "b": "Inerte",
+                "c": "Reductora",
+                "d": "Contaminada"
+              },
+              "respuesta_correcta": "c"
+            },
+            {
+                "materia": "Biología",
+                "pregunta": "¿Factores de crecimiento?",
+                "opciones": {
+                  "a": "Minerales",
+                  "b": "Proteínas",
+                  "c": "Vitaminas",
+                  "d": "Carbohidratos"
+                },
+                "respuesta_correcta": "c"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Son proteínas estructurales?",
+                "opciones": {
+                  "a": "Amilopectina y glucógeno",
+                  "b": "Queratina y colágeno",
+                  "c": "Actina y miosina",
+                  "d": "Enzimas y hormonas"
+                },
+                "respuesta_correcta": "b"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Organelo para la respiración aerobia?",
+                "opciones": {
+                  "a": "Cloroplasto",
+                  "b": "Ribosoma",
+                  "c": "Mitocondria",
+                  "d": "Lisosooma"
+                },
+                "respuesta_correcta": "c"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Dónde sucede la glucólisis?",
+                "opciones": {
+                  "a": "Mitocondria",
+                  "b": "Núcleo",
+                  "c": "Retículo endoplásmico",
+                  "d": "Citoplasma"
+                },
+                "respuesta_correcta": "d"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Unidad de la ecología?",
+                "opciones": {
+                  "a": "Bioma",
+                  "b": "Población",
+                  "c": "Ecosistema",
+                  "d": "Comunidades"
+                },
+                "respuesta_correcta": "c"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Factores abióticos que conforman un ecosistema?",
+                "opciones": {
+                  "a": "Clima, fauna, suelo, luz",
+                  "b": "Clima, altitud, topografía, agua",
+                  "c": "Nutrientes, aire, temperatura",
+                  "d": "Animales, plantas, agua, aire"
+                },
+                "respuesta_correcta": "b"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Azúcar del ADN?",
+                "opciones": {
+                  "a": "Glucosa",
+                  "b": "Fructosa",
+                  "c": "Desoxirribosa",
+                  "d": "Galactosa"
+                },
+                "respuesta_correcta": "c"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Enzima para duplicación del DNA?",
+                "opciones": {
+                  "a": "Helicasa",
+                  "b": "ADN ligasa",
+                  "c": "ADN polimerasa",
+                  "d": "ARN polimerasa"
+                },
+                "respuesta_correcta": "c"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Enzima para replicación del ATP?",
+                "opciones": {
+                  "a": "ATPase",
+                  "b": "ATP sintetasa",
+                  "c": "ATP hidrolasa",
+                  "d": "ADN polimerasa"
+                },
+                "respuesta_correcta": "b"
+              },
+              {
+                "materia": "Biología",
+                "pregunta": "¿Células producto de mitosis?",
+                "opciones": {
+                  "a": "Haploides",
+                  "b": "Diploides",
+                  "c": "Tetraploides",
+                  "d": "Monoploides"
+                },
+                "respuesta_correcta": "b"
+              },
+              {
+                  "materia": "Biología",
+                  "pregunta": "¿Conforme a la teoría celular, quiénes no tienen vida?",
+                  "opciones": {
+                    "a": "Las bacterias",
+                    "b": "Los hongos",
+                    "c": "Los virus",
+                    "d": "Las plantas"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Cómo se regeneran las células epiteliales?",
+                  "opciones": {
+                    "a": "Meiosis",
+                    "b": "Mitosis",
+                    "c": "Fisión",
+                    "d": "Fragmentación"
+                  },
+                  "respuesta_correcta": "b"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Proceso por el cual se obtiene energía?",
+                  "opciones": {
+                    "a": "Fotosíntesis",
+                    "b": "Digestión",
+                    "c": "Respiración",
+                    "d": "Fermentación"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿En una glándula cómo se reproducen las células?",
+                  "opciones": {
+                    "a": "Meiosis",
+                    "b": "Mitosis",
+                    "c": "Fisión binaria",
+                    "d": "Fragmentación"
+                  },
+                  "respuesta_correcta": "b"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Molécula que lleva la información en los cromosomas?",
+                  "opciones": {
+                    "a": "ARN",
+                    "b": "Proteína",
+                    "c": "ADN",
+                    "d": "Carbohidrato"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Es la unidad de herencia?",
+                  "opciones": {
+                    "a": "Cromosoma",
+                    "b": "Gen",
+                    "c": "Alelo",
+                    "d": "Ácido nucleico"
+                  },
+                  "respuesta_correcta": "b"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Era en la que no había vida?",
+                  "opciones": {
+                    "a": "Mesozoica",
+                    "b": "Cenozoica",
+                    "c": "Azoica",
+                    "d": "Paleozoica"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Era en la que aparece el hombre?",
+                  "opciones": {
+                    "a": "Mesozoica",
+                    "b": "Paleozoica",
+                    "c": "Cenozoica",
+                    "d": "Arqueozoica"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿La glucólisis es un proceso?",
+                  "opciones": {
+                    "a": "Aerobio",
+                    "b": "Anaerobio",
+                    "c": "Fotosintético",
+                    "d": "Metabólico"
+                  },
+                  "respuesta_correcta": "b"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Cuáles son las células diploides?",
+                  "opciones": {
+                    "a": "Células sexuales",
+                    "b": "Células con 23 cromosomas",
+                    "c": "Células con 46 cromosomas",
+                    "d": "Células madre"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Tipo de enlace en proteínas?",
+                  "opciones": {
+                    "a": "Iónico",
+                    "b": "Covalente",
+                    "c": "Peptídico",
+                    "d": "Hidrógeno"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Fase donde se forma la placa ecuatorial?",
+                  "opciones": {
+                    "a": "Anafase",
+                    "b": "Telofase",
+                    "c": "Metafase",
+                    "d": "Profase"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿Qué se obtiene de la glucólisis?",
+                  "opciones": {
+                    "a": "Glucógeno",
+                    "b": "Ácido láctico",
+                    "c": "Ácido pirúvico",
+                    "d": "Glucosa"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿El agua pasa a formar parte del subsuelo para formar mantos acuíferos debido a?",
+                  "opciones": {
+                    "a": "Evaporación",
+                    "b": "Condensación",
+                    "c": "La filtración",
+                    "d": "Precipitación"
+                  },
+                  "respuesta_correcta": "c"
+                },
+                {
+                  "materia": "Biología",
+                  "pregunta": "¿El fosfato pasa de un organismo a otro por medio de?",
+                  "opciones": {
+                    "a": "La fotosíntesis",
+                    "b": "La respiración",
+                    "c": "La cadena alimenticia",
+                    "d": "La fijación del nitrógeno"
+                  },
+                  "respuesta_correcta": "c"
+                }
 ]
 
