@@ -2008,6 +2008,674 @@
        },
        "respuesta_correcta": "a"
      },
+     
+     
+     
+     
+     {
+         "materia": "Geografía",
+         "pregunta": "¿Cuál es la mayor actividad industrial de Monterrey?",
+         "opciones": {
+           "a": "Siderurgia",
+           "b": "Textil",
+           "c": "Automotriz",
+           "d": "Alimentos"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Cuáles fueron las políticas empleadas por Gorbachov para buscar un cambio político?",
+         "opciones": {
+           "a": "Perestroika y Glasnost",
+           "b": "Revolución Cultural y Gran Salto Adelante",
+           "c": "Plan Quinquenal y Colectivización",
+           "d": "Doctrina Truman y Plan Marshall"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿En qué año se creó el Muro de Berlín?",
+         "opciones": {
+           "a": "1961",
+           "b": "1945",
+           "c": "1953",
+           "d": "1989"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Sobre qué placa tectónica se encuentra nuestro país?",
+         "opciones": {
+           "a": "Norteamericana",
+           "b": "Eurasiática",
+           "c": "Sudamericana",
+           "d": "Africana"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Cuál es el estado con mayor producción de petróleo?",
+         "opciones": {
+           "a": "Campeche",
+           "b": "Tabasco",
+           "c": "Veracruz",
+           "d": "Chiapas"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Cuál es la cordillera que separa a Europa de Asia?",
+         "opciones": {
+           "a": "Montes Urales",
+           "b": "Montañas Rocosas",
+           "c": "Montes Apeninos",
+           "d": "Cordillera de los Andes"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿La tierra en su movimiento de rotación gira de?",
+         "opciones": {
+           "a": "Oeste a Este",
+           "b": "Norte a Sur",
+           "c": "Este a Oeste",
+           "d": "Sur a Norte"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Es el año que inicia el primero de enero y termina el 31 de diciembre, consta de 365 días?",
+         "opciones": {
+           "a": "Año civil",
+           "b": "Año bisiesto",
+           "c": "Año lunar",
+           "d": "Año solar"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Es el año que inicia el 21 de marzo y consta de 365 días, 5 horas, 48 minutos y 46 segundos?",
+         "opciones": {
+           "a": "Año trópico",
+           "b": "Año solar",
+           "c": "Año civil",
+           "d": "Año lunar"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿La línea internacional del tiempo se localiza imaginariamente en?",
+         "opciones": {
+           "a": "Antimeridiano",
+           "b": "Ecuador",
+           "c": "Meridiano de Greenwich",
+           "d": "Trópico de Capricornio"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Capa de la Tierra en la que se presentan los movimientos convectivos?",
+         "opciones": {
+           "a": "Manto superior",
+           "b": "Corteza",
+           "c": "Manto inferior",
+           "d": "Núcleo interno"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Capa de la Tierra que da origen al magnetismo terrestre?",
+         "opciones": {
+           "a": "Núcleo externo",
+           "b": "Corteza",
+           "c": "Manto inferior",
+           "d": "Núcleo interno"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Capa de la Tierra que presenta el mayor espesor?",
+         "opciones": {
+           "a": "Núcleo externo",
+           "b": "Corteza continental",
+           "c": "Manto superior",
+           "d": "Núcleo interno"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Capa de la Tierra formada de roca basáltica principalmente?",
+         "opciones": {
+           "a": "Corteza oceánica",
+           "b": "Corteza continental",
+           "c": "Manto inferior",
+           "d": "Núcleo interno"
+         },
+         "respuesta_correcta": "a"
+       },
+       {
+         "materia": "Geografía",
+         "pregunta": "¿Capa de la Tierra formada por roca de granito principalmente?",
+         "opciones": {
+           "a": "Corteza continental",
+           "b": "Manto superior",
+           "c": "Corteza oceánica",
+           "d": "Núcleo externo"
+         },
+         "respuesta_correcta": "a"
+       },
+       
+       
+       {
+           "materia": "Geografía",
+           "pregunta": "¿El manto superior tiene un espesor de?",
+           "opciones": {
+             "a": "700 km",
+             "b": "500 km",
+             "c": "1000 km",
+             "d": "1200 km"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿El núcleo comprende espesores de?",
+           "opciones": {
+             "a": "El interior de 1270 km y el externo de 2200 km",
+             "b": "El interior de 1200 km y el externo de 2300 km",
+             "c": "El interior de 1500 km y el externo de 2500 km",
+             "d": "El interior de 1350 km y el externo de 2400 km"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Cuando se viaja de la Ciudad de México al estado de Veracruz, se cruza la Sierra?",
+           "opciones": {
+             "a": "Sierra Madre Oriental",
+             "b": "Sierra Madre Occidental",
+             "c": "Sierra Madre del Sur",
+             "d": "Cordillera Volcánica Transversal"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Cuando se viaja de la Ciudad de México al estado de Puebla, se cruza por?",
+           "opciones": {
+             "a": "Cordillera Volcánica Transversal",
+             "b": "Sierra Madre Occidental",
+             "c": "Sierra Madre del Sur",
+             "d": "Sierra Madre Oriental"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Cuando se viaja de la Ciudad de México al estado de Guerrero, se cruza por?",
+           "opciones": {
+             "a": "Sierra Madre del Sur",
+             "b": "Cordillera Volcánica Transversal",
+             "c": "Sierra Madre Occidental",
+             "d": "Sierra Madre Oriental"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿La formación de los volcanes, cordilleras de la litosfera, son producto de las?",
+           "opciones": {
+             "a": "Corrientes convectivas",
+             "b": "Placas tectónicas",
+             "c": "Fuerzas gravitacionales",
+             "d": "Movimientos sísmicos"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que tienen costa al océano Pacífico?",
+           "opciones": {
+             "a": "Baja California Norte, Baja California Sur, Sonora, Sinaloa, Nayarit, Jalisco, Colima, Michoacán, Guerrero, Oaxaca y Chiapas",
+             "b": "Veracruz, Tabasco, Campeche, Quintana Roo, Yucatán",
+             "c": "Tamaulipas, Nuevo León, Coahuila, Chihuahua",
+             "d": "Puebla, Hidalgo, Tlaxcala, Morelos, Estado de México"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que tienen costa al Golfo de México?",
+           "opciones": {
+             "a": "Tamaulipas, Veracruz, Tabasco y Campeche",
+             "b": "Jalisco, Colima, Michoacán, Guerrero",
+             "c": "Sonora, Sinaloa, Nayarit, Jalisco",
+             "d": "Chiapas, Oaxaca, Guerrero, Puebla"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que tienen frontera con los Estados Unidos?",
+           "opciones": {
+             "a": "Baja California, Sonora, Chihuahua, Coahuila, Nuevo León y Tamaulipas",
+             "b": "Guerrero, Puebla, Veracruz",
+             "c": "Chiapas, Tabasco, Campeche",
+             "d": "Jalisco, Michoacán, Colima"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que tienen frontera con Belice y Guatemala?",
+           "opciones": {
+             "a": "Quintana Roo, Campeche, Tabasco, Chiapas",
+             "b": "Veracruz, Tabasco, Campeche, Yucatán",
+             "c": "Tamaulipas, Coahuila, Nuevo León",
+             "d": "Chiapas, Oaxaca, Puebla"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estado que se ubica por sus coordenadas más al sur del país?",
+           "opciones": {
+             "a": "Chiapas",
+             "b": "Guerrero",
+             "c": "Yucatán",
+             "d": "Oaxaca"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estado que se ubica por sus coordenadas más al norte del país?",
+           "opciones": {
+             "a": "Baja California Norte",
+             "b": "Sonora",
+             "c": "Coahuila",
+             "d": "Nuevo León"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que limitan con Zacatecas?",
+           "opciones": {
+             "a": "San Luis Potosí, Guanajuato, Aguascalientes, Jalisco, Durango",
+             "b": "Nuevo León, San Luis Potosí, Coahuila, Guanajuato",
+             "c": "Zacatecas, Durango, Jalisco",
+             "d": "Guerrero, Puebla, Veracruz"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que comprenden la península de Yucatán?",
+           "opciones": {
+             "a": "Quintana Roo, Yucatán y Campeche",
+             "b": "Yucatán, Campeche, Tabasco",
+             "c": "Veracruz, Quintana Roo, Campeche",
+             "d": "Jalisco, Colima, Michoacán"
+           },
+           "respuesta_correcta": "a"
+         },
+         {
+           "materia": "Geografía",
+           "pregunta": "¿Estados que cruzan el trópico de cáncer?",
+           "opciones": {
+             "a": "Baja California Sur, Durango, Zacatecas, San Luis Potosí, Nuevo León, Tamaulipas",
+             "b": "Guerrero, Puebla, Veracruz",
+             "c": "Chiapas, Oaxaca, Tabasco",
+             "d": "Sonora, Coahuila, Tamaulipas"
+           },
+           "respuesta_correcta": "a"
+         },
+         
+         {
+             "materia": "Geografía",
+             "pregunta": "¿Ríos fronterizos al norte de México?",
+             "opciones": {
+               "a": "Bravo y Colorado",
+               "b": "Usumacinta y Hondo",
+               "c": "Suchiate y Bravo",
+               "d": "Colorado y Pecos"
+             },
+             "respuesta_correcta": "a"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Ríos fronterizos al sur de México?",
+             "opciones": {
+               "a": "Usumacinta y Suchiate",
+               "b": "Bravo y Colorado",
+               "c": "Grijalva y Balsas",
+               "d": "Hondo y Colorado"
+             },
+             "respuesta_correcta": "e"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Los movimientos tectónicos se originan en el interior de?",
+             "opciones": {
+               "a": "La corteza terrestre",
+               "b": "La corteza oceánica",
+               "c": "El manto superior",
+               "d": "El núcleo interno"
+             },
+             "respuesta_correcta": "a"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Los movimientos epirogénicos son formadores de?",
+             "opciones": {
+               "a": "Montañas",
+               "b": "Volcanes",
+               "c": "Continentes",
+               "d": "Valles"
+             },
+             "respuesta_correcta": "c"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Los movimientos realizados en sentido horizontal que son lentos y formadores de montañas se denominan?",
+             "opciones": {
+               "a": "Epirogénicos",
+               "b": "Orogénicos",
+               "c": "Tectónicos",
+               "d": "Volcánicos"
+             },
+             "respuesta_correcta": "b"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Nombra cuatro lagos de origen tectónico en la República Mexicana?",
+             "opciones": {
+               "a": "Chapala, Zirahuén, Pátzcuaro y Yuriria",
+               "b": "Xolotlán, Cocibolca, Términos y Cuitzeo",
+               "c": "Chapala, Cuitzeo, Términos y Pátzcuaro",
+               "d": "Zirahuén, Pátzcuaro, Términos y Chapala"
+             },
+             "respuesta_correcta": "a"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Las placas tectónicas son grandes porciones rocosas y compactas que se mueven de acuerdo a las?",
+             "opciones": {
+               "a": "Corrientes marinas",
+               "b": "Corrientes convectivas del manto superior",
+               "c": "Fuerzas gravitacionales",
+               "d": "Corrientes de marea"
+             },
+             "respuesta_correcta": "b"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Nuestro país está sobre la placa denominada?",
+             "opciones": {
+               "a": "Placa del Pacífico",
+               "b": "Placa Norteamericana",
+               "c": "Placa de Cocos",
+               "d": "Placa de Nazca"
+             },
+             "respuesta_correcta": "b"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Qué placa se encuentra al sur de la República Mexicana?",
+             "opciones": {
+               "a": "Placa del Pacífico",
+               "b": "Placa de Nazca",
+               "c": "Placa de Cocos",
+               "d": "Placa Norteamericana"
+             },
+             "respuesta_correcta": "c"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Cuál es el océano más grande?",
+             "opciones": {
+               "a": "Atlántico",
+               "b": "Índico",
+               "c": "Ártico",
+               "d": "Pacífico"
+             },
+             "respuesta_correcta": "d"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "Tipo de roca que envuelve a la mayor parte de la Tierra",
+             "opciones": {
+               "a": "Sedimentaria",
+               "b": "Metamórfica",
+               "c": "Ígnea",
+               "d": "Volcánica"
+             },
+             "respuesta_correcta": "c"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Las zonas más frías del planeta son?",
+             "opciones": {
+               "a": "Los desiertos",
+               "b": "Las montañas",
+               "c": "Los océanos",
+               "d": "Los polos"
+             },
+             "respuesta_correcta": "d"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Las principales maquiladoras de nuestro país se localizan en la zona?",
+             "opciones": {
+               "a": "Frontera sur, Tapachula",
+               "b": "Centro, Ciudad de México",
+               "c": "Frontera norte, Mexicali",
+               "d": "Occidente, Guadalajara"
+             },
+             "respuesta_correcta": "c"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Las corrientes marinas son cálidas y frías e influyen en?",
+             "opciones": {
+               "a": "La velocidad de los vientos",
+               "b": "La formación de volcanes",
+               "c": "El clima de una región y la formación de zonas de pesca",
+               "d": "La composición del suelo"
+             },
+             "respuesta_correcta": "c"
+           },
+           {
+             "materia": "Geografía",
+             "pregunta": "¿Lo salado de un mar u océano depende de?",
+             "opciones": {
+               "a": "La profundidad y la temperatura",
+               "b": "La latitud y los ríos que desembocan",
+               "c": "Los vientos y la presión atmosférica",
+               "d": "La ubicación geográfica y la marea"
+             },
+             "respuesta_correcta": "b"
+           },
+           
+           {
+               "materia": "Geografía",
+               "pregunta": "¿En qué parte del relieve submarino vive la mayor cantidad de animales y vegetales?",
+               "opciones": {
+                 "a": "Fosa abisal",
+                 "b": "Dorsales oceánicas",
+                 "c": "Plataforma continental",
+                 "d": "Abyssal plain"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Si se contamina el mar, cuál es el efecto inmediato?",
+               "opciones": {
+                 "a": "Pérdida de oxígeno",
+                 "b": "Muerte del plancton",
+                 "c": "Reducción de la biodiversidad",
+                 "d": "Aumento de algas"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿La mayor concentración de agua dulce se localiza en?",
+               "opciones": {
+                 "a": "Ríos y lagos",
+                 "b": "Casquetes polares",
+                 "c": "Acuíferos subterráneos",
+                 "d": "Glaciares"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Dónde afecta la marea negra?",
+               "opciones": {
+                 "a": "Aguas subterráneas",
+                 "b": "Ecosistema marino, zonas costeras",
+                 "c": "Llanuras costeras",
+                 "d": "Montañas"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Con qué se mide la presión?",
+               "opciones": {
+                 "a": "Con el manómetro",
+                 "b": "Con el barómetro",
+                 "c": "Con el higrómetro",
+                 "d": "Con el termómetro"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿La presión atmosférica varía de acuerdo a la altitud, a mayor altura?",
+               "opciones": {
+                 "a": "Aumenta",
+                 "b": "Permanece igual",
+                 "c": "Menor presión",
+                 "d": "Se duplica"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Qué hace la inversión térmica?",
+               "opciones": {
+                 "a": "Aumenta la presión atmosférica",
+                 "b": "No permite el ascenso de los contaminantes",
+                 "c": "Reduce la humedad",
+                 "d": "Mejora la calidad del aire"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿El aumento de CO2 en la atmósfera desarrolla el efecto invernadero, lo cual provoca?",
+               "opciones": {
+                 "a": "Disminución de la temperatura",
+                 "b": "Aumento de temperatura",
+                 "c": "Reducción de la capa de ozono",
+                 "d": "Destrucción de la biodiversidad"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Qué destruye la capa de ozono?",
+               "opciones": {
+                 "a": "El dióxido de azufre",
+                 "b": "Los óxidos de nitrógeno",
+                 "c": "Los clorofluorocarbonos",
+                 "d": "El monóxido de carbono"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Qué forma tiene la Tierra?",
+               "opciones": {
+                 "a": "Esferoide",
+                 "b": "Geoide de Revolución",
+                 "c": "Esfera",
+                 "d": "Elipsoide"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Los monzones son vientos de tipo?",
+               "opciones": {
+                 "a": "Permanentes",
+                 "b": "Intermitentes",
+                 "c": "Periódico",
+                 "d": "Ráfagas"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿En qué estación se desarrollan los monzones?",
+               "opciones": {
+                 "a": "En invierno",
+                 "b": "En primavera",
+                 "c": "En verano",
+                 "d": "En otoño"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Qué tipo de cultivo benefician los monzones?",
+               "opciones": {
+                 "a": "Trigo",
+                 "b": "Café",
+                 "c": "Arroz",
+                 "d": "Maíz"
+               },
+               "respuesta_correcta": "c"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿Los elementos acuosos del clima son?",
+               "opciones": {
+                 "a": "Temperatura, humedad y presión",
+                 "b": "Humedad, nubosidad y precipitación",
+                 "c": "Viento, presión y temperatura",
+                 "d": "Precipitación, temperatura y viento"
+               },
+               "respuesta_correcta": "b"
+             },
+             {
+               "materia": "Geografía",
+               "pregunta": "¿En altitudes altas la población es inexistente, donde el clima es de tipo?",
+               "opciones": {
+                 "a": "Tropical",
+                 "b": "Frío",
+                 "c": "Cálido",
+                 "d": "Templado"
+               },
+               "respuesta_correcta": "b"
+             },
   
 
   {
