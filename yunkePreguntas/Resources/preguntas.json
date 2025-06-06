@@ -11,6 +11,893 @@
     },
     "respuesta_correcta": "a"
   },
+  
+  {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuál fue la primera forma de gobierno del Nuevo México?",
+      "opciones": {
+        "a": "República",
+        "b": "Monarquía",
+        "c": "Confederación",
+        "d": "Imperio"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Quién realizó la primera reforma liberal a la Constitución de 1824?",
+      "opciones": {
+        "a": "Benito Juárez",
+        "b": "Valentín Gómez Farías",
+        "c": "Guadalupe Victoria",
+        "d": "Vicente Guerrero"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cómo se llamó al plan por el cual, el general Félix Zuloaga desconoce al presidente Ignacio Comonfort y a las leyes de Reforma?",
+      "opciones": {
+        "a": "Plan de Ayutla",
+        "b": "Plan de Tacubaya",
+        "c": "Plan de Iguala",
+        "d": "Plan de Veracruz"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cómo se llamó el plan por el cual el general Juan Álvarez desconoce la dictadura de Santa Anna en 1854?",
+      "opciones": {
+        "a": "Plan de Ayutla",
+        "b": "Plan de Tacubaya",
+        "c": "Plan de Iguala",
+        "d": "Plan de Veracruz"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Quién fue el segundo Emperador de México?",
+      "opciones": {
+        "a": "Benito Juárez",
+        "b": "Porfirio Díaz",
+        "c": "Ignacio Comonfort",
+        "d": "Maximiliano de Habsburgo"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuáles son las características después de la Independencia de México?",
+      "opciones": {
+        "a": "Estabilidad económica y unidad política",
+        "b": "Inestabilidad económica y lucha de fuerzas políticas",
+        "c": "Prosperidad económica y estabilidad política",
+        "d": "Desarrollo industrial y social"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuáles son las características de las Reformas Borbónicas?",
+      "opciones": {
+        "a": "Abolición de la esclavitud y descentralización administrativa",
+        "b": "Creación de las Doce Intendencias y Decreto de Expulsión de los Jesuitas",
+        "c": "Establecimiento de impuestos equitativos y promoción del libre comercio",
+        "d": "Apertura de puertos y fortalecimiento del comercio exterior"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuál era la finalidad de \"Los Sentimientos de la Nación\"?",
+      "opciones": {
+        "a": "Establecer la monarquía absoluta y reforzar el poder del monarca",
+        "b": "Promover la independencia de México y la formación de una república",
+        "c": "La división de poderes y el sentir de la sociedad",
+        "d": "Crear un sistema centralizado de gobierno y reprimir cualquier intento de autonomía regional"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Con qué plan se desconoce el imperio de Iturbide en 1823?",
+      "opciones": {
+        "a": "Plan de Iguala",
+        "b": "Plan de Tacubaya",
+        "c": "Plan de Veracruz",
+        "d": "Plan de Casa Mata"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Quién apoyó al gobierno porfirista durante su dictadura?",
+      "opciones": {
+        "a": "Los Científicos",
+        "b": "Los Liberales",
+        "c": "Los Conservadores",
+        "d": "Los Revolucionarios"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "Durante la etapa conocida como República Restaurada, ¿qué crea Benito Juárez?",
+      "opciones": {
+        "a": "La Escuela Nacional Preparatoria",
+        "b": "La Secretaría de Educación Pública",
+        "c": "El Banco Nacional de México",
+        "d": "El Partido Liberal Mexicano"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿En qué etapa se dio un crecimiento político-económico después de la Segunda Guerra Mundial hasta los sesentas en México?",
+      "opciones": {
+        "a": "En el periodo de la Revolución Mexicana",
+        "b": "En el periodo de la Colonia",
+        "c": "En el periodo de la República Restaurada",
+        "d": "En el periodo del Milagro Mexicano"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuáles son las Leyes de Reforma?",
+      "opciones": {
+        "a": "Ley de Registro Civil, Ley de Nacionalización de la Banca y Ley de Reforma Agraria",
+        "b": "Ley de Reforma Laboral, Ley de Desamortización de Bienes Comunales y Ley de Descentralización Administrativa",
+        "c": "Registro Civil, Supresión del fuero eclesiástico y desamortizar las propiedades de la iglesia.",
+        "d": "Ley de Reforma Educativa, Ley de Reforma Fiscal y Ley de Reforma Electoral"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿En qué período Calles controlaba a tres presidentes?",
+      "opciones": {
+        "a": "Revolución Mexicana",
+        "b": "Independencia de México",
+        "c": "Época Colonial",
+        "d": "Maximato"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia de México",
+      "pregunta": "¿Cuáles son las características del Porfiriato?",
+      "opciones": {
+        "a": "Estabilidad política, democracia y desarrollo social",
+        "b": "Progresión económica, dictadura y represión",
+        "c": "Descentralización administrativa, respeto a los derechos humanos y modernización del país",
+        "d": "Democracia participativa, libertad de prensa y equidad social"
+      },
+      "respuesta_correcta": "b"
+    },
+    
+    {
+        "materia": "Historia de México",
+        "pregunta": "¿Cuál fue el acontecimiento que propició la decisión entre conservadores y liberales?",
+        "opciones": {
+          "a": "Independencia de México",
+          "b": "Ley de Nacionalización del Petróleo",
+          "c": "Ley de Reforma Agraria",
+          "d": "Leyes de Reforma"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Cuáles son las características del gobierno de Plutarco Elías Calles?",
+        "opciones": {
+          "a": "Guerra Cristera, Maximato y Fundación del PAN",
+          "b": "Prohibición de la venta de alcohol, nacionalización de la banca y apertura comercial",
+          "c": "Guerra Cristera, Maximato y Fundación del PNR",
+          "d": "Prohibición de la libertad de prensa, dictadura y expropiación de tierras"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Cuál fue el factor político de la Conquista de México-Tenochtitlan?",
+        "opciones": {
+          "a": "La alianza con los pueblos indígenas",
+          "b": "El uso de armas de fuego",
+          "c": "El liderazgo de Hernán Cortés",
+          "d": "La intervención de potencias extranjeras"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Cuáles fueron las causas del movimiento estudiantil de 1968?",
+        "opciones": {
+          "a": "Reformas educativas",
+          "b": "Gobierno antidemocrático",
+          "c": "Crisis económica",
+          "d": "Influencia extranjera"
+        },
+        "respuesta_correcta": "b"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Qué presidente nacionalizó la banca?",
+        "opciones": {
+          "a": "Miguel de la Madrid",
+          "b": "Carlos Salinas de Gortari",
+          "c": "Luis Echeverría",
+          "d": "José López Portillo"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Qué presidente concedió el voto a la mujer?",
+        "opciones": {
+          "a": "Lázaro Cárdenas",
+          "b": "Manuel Ávila Camacho",
+          "c": "Adolfo Ruiz Cortines",
+          "d": "Gustavo Díaz Ordaz"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Cuál fue la actividad económica primordial de los mexicas?",
+        "opciones": {
+          "a": "La agricultura",
+          "b": "La pesca",
+          "c": "La ganadería",
+          "d": "El comercio marítimo"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Qué cultura se estableció en los Estados de Chiapas, Tabasco y Quintana Roo (sureste)?",
+        "opciones": {
+          "a": "Olmeca",
+          "b": "Tolteca",
+          "c": "Zapoteca",
+          "d": "Maya"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "Relaciona las etapas de la revolución mexicana: 1. Antecedentes, 2. Inicio, 3. Constitucionalista, 4. Etapa de Reconstrucción, A) Álvaro Obregón y el Plan de Agua Prieta, B) Venustiano Carranza y Constitución de 1917, C) Huelga de Cananea y Río Blanco, D) Maderista, decena trágica, Plan de San Luis y movimiento zapatista",
+        "opciones": {
+          "a": "1-D, 2-C, 3-A, 4-B",
+          "b": "1-A, 2-B, 3-D, 4-C",
+          "c": "1-B, 2-A, 3-C, 4-D",
+          "d": "1-C, 2-D, 3-B, 4-A"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Qué personaje proclama la Constitución de Apatzingán?",
+        "opciones": {
+          "a": "Miguel Hidalgo",
+          "b": "Agustín de Iturbide",
+          "c": "José María Morelos",
+          "d": "Vicente Guerrero"
+        },
+        "respuesta_correcta": "c"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "Relaciona los acontecimientos con su personaje: I. Sitiaron en Cuautla, II. Se retiraron antes de atacar la Ciudad de México, III. Traición a la Patria, IV. Iturbide se alió con…, a) Vicente Guerrero, b) Francisco Javier Mina, c) Miguel Hidalgo, d) José María Morelos",
+        "opciones": {
+          "a": "I-c, II-d, III-a, IV-b",
+          "b": "I-b, II-a, III-d, IV-c",
+          "c": "I-a, II-b, III-c, IV-d",
+          "d": "I-d, II-c, III-b, IV-a"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿En qué tratados se reconoce la Independencia de México?",
+        "opciones": {
+          "a": "Tratado de Guadalupe Hidalgo",
+          "b": "Tratado de Tordesillas",
+          "c": "Tratado de París",
+          "d": "Tratados de Córdoba"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Quién fue el primer gobernante de México independiente?",
+        "opciones": {
+          "a": "Benito Juárez",
+          "b": "Miguel Hidalgo",
+          "c": "Vicente Guerrero",
+          "d": "Agustín de Iturbide"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "¿Quién fue el primer presidente de México?",
+        "opciones": {
+          "a": "Miguel Hidalgo",
+          "b": "Agustín de Iturbide",
+          "c": "Vicente Guerrero",
+          "d": "Guadalupe Victoria"
+        },
+        "respuesta_correcta": "d"
+      },
+      {
+        "materia": "Historia de México",
+        "pregunta": "Menciona la causa por la cual, el territorio mexicano de Texas se independiza de México, en el año de 1836",
+        "opciones": {
+          "a": "Por la implementación de políticas proteccionistas",
+          "b": "Por el regreso de México al sistema Centralista",
+          "c": "Por la abolición de la esclavitud",
+          "d": "Por la implementación de reformas agrarias"
+        },
+        "respuesta_correcta": "b"
+      },
+      
+      {
+          "materia": "historia de México",
+          "pregunta": "¿Cómo se llamaron los tratados por los cuales, el General Santa Anna reconoce la independencia de Texas en 1836?",
+          "opciones": {
+            "a": "Tratados de Córdoba",
+            "b": "Tratados de Gadsen",
+            "c": "Tratados de Guadalupe",
+            "d": "Tratados de Velasco"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿En qué Constitución, por primera vez se le llamó Estados Unidos Mexicanos?",
+          "opciones": {
+            "a": "Constitución de 1812",
+            "b": "Constitución de 1857",
+            "c": "Constitución de 1917",
+            "d": "Constitución de 1824"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿En los primeros años del México independiente, qué logias masónicas lucharon?",
+          "opciones": {
+            "a": "La Logia de los Leales",
+            "b": "La Logia del Valle de México",
+            "c": "La Logia de los Secretos Ancestrales",
+            "d": "La Logia Yorkina y la Logia Escocesa"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿En los primeros años del México independiente, qué fuerzas políticas contendieron?",
+          "opciones": {
+            "a": "Liberales y Conservadores",
+            "b": "Reformistas y Revolucionarios",
+            "c": "Monárquicos y Republicanos",
+            "d": "Centralistas y Federalistas"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué tendencia política tenía la Logia Escocesa?",
+          "opciones": {
+            "a": "Federalista",
+            "b": "Conservadora",
+            "c": "Liberal",
+            "d": "Centralista"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué tendencia política tenía la Logia Yorkina?",
+          "opciones": {
+            "a": "Conservadora",
+            "b": "Liberal",
+            "c": "Centralista",
+            "d": "Federalista"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué personajes consumaron la independencia de México?",
+          "opciones": {
+            "a": "Miguel Hidalgo y José María Morelos",
+            "b": "Miguel Hidalgo y Agustín de Iturbide",
+            "c": "José María Morelos y Vicente Guerrero",
+            "d": "Agustín de Iturbide y Vicente Guerrero"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Cuál era la función de la CROM?",
+          "opciones": {
+            "a": "Representar a los empresarios",
+            "b": "Fomentar la competencia laboral",
+            "c": "Promover la desigualdad salarial",
+            "d": "Apoyar a los obreros"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Cuál era el objetivo del Plan de Ayala?",
+          "opciones": {
+            "a": "Reforma agraria integral",
+            "b": "Creación de una monarquía constitucional",
+            "c": "Establecimiento de un gobierno autoritario",
+            "d": "Devolución de tierras a sus antiguos dueños"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Cuáles fueron las reformas que afectaron a la Nueva España, las cuales fueron impuestas por los franceses?",
+          "opciones": {
+            "a": "Reformas Constitucionales",
+            "b": "Reformas Liberales",
+            "c": "Reformas Neoliberales",
+            "d": "Reformas Borbónicas"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué personaje introduce el positivismo en México?",
+          "opciones": {
+            "a": "Porfirio Díaz",
+            "b": "Benito Juárez",
+            "c": "José Vasconcelos",
+            "d": "Gabino Barreda"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "Durante la época conocida como República Restaurada, ¿cómo se va a dar la lucha política por la presidencia?",
+          "opciones": {
+            "a": "Golpes de estado",
+            "b": "Acuerdos internacionales",
+            "c": "Conflictos armados",
+            "d": "Elecciones"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué fuerzas políticas se van a enfrentar en la lucha por el poder durante la República Restaurada?",
+          "opciones": {
+            "a": "Conservadores y liberales",
+            "b": "Federalistas y centralistas",
+            "c": "Militares y civiles",
+            "d": "Porfiristas, juaristas y lerdistas"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "Los juaristas, porfiristas y lerdistas, ¿a qué corriente ideológica pertenecieron?",
+          "opciones": {
+            "a": "Conservadores",
+            "b": "Socialistas",
+            "c": "Comunistas",
+            "d": "Liberales"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "materia": "historia de México",
+          "pregunta": "¿Qué grupo tuvo notable influencia en el gobierno porfirista?",
+          "opciones": {
+            "a": "Los conservadores",
+            "b": "Los zapatistas",
+            "c": "El ejército",
+            "d": "El grupo de los científicos"
+          },
+          "respuesta_correcta": "d"
+        },
+        
+        {
+            "materia": "historia de México",
+            "pregunta": "¿Qué fundamento filosófico y de principio sirvió de base al desarrollo cultural y político de Porfirio Díaz?",
+            "opciones": {
+              "a": "Socialismo",
+              "b": "Liberalismo",
+              "c": "Romanticismo",
+              "d": "Positivismo"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Cuál fue la entrevista que concede una apertura democrática durante el régimen porfirista?",
+            "opciones": {
+              "a": "La entrevista de Barreda",
+              "b": "La entrevista de Díaz-Creelman",
+              "c": "La entrevista de Madero",
+              "d": "La entrevista de Creelman"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué partido político funda Francisco I. Madero?",
+            "opciones": {
+              "a": "Partido Liberal Mexicano",
+              "b": "Partido Constitucionalista",
+              "c": "Partido Revolucionario",
+              "d": "Partido Antirreeleccionista"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Cuál fue el libro que escribió Francisco I. Madero?",
+            "opciones": {
+              "a": "México Bárbaro",
+              "b": "La Revolución de 1910",
+              "c": "El Porvenir de México",
+              "d": "La Sucesión presidencial en 1910"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué partido fundó Francisco I. Madero?",
+            "opciones": {
+              "a": "Partido Liberal Mexicano",
+              "b": "Partido Constitucionalista",
+              "c": "Partido Revolucionario Institucional",
+              "d": "Partido Antirreeleccionista Mexicano"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué general usurpa el poder al haber mandado asesinar a Madero y Pino Suárez?",
+            "opciones": {
+              "a": "Porfirio Díaz",
+              "b": "Venustiano Carranza",
+              "c": "Álvaro Obregón",
+              "d": "Victoriano Huerta"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Quién duró 45 minutos como presidente provisional, después del asesinato del presidente Madero?",
+            "opciones": {
+              "a": "Francisco Villa",
+              "b": "Felipe Ángeles",
+              "c": "Emilio Portes Gil",
+              "d": "Pedro Lascuráin"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué jefe revolucionario se pronuncia contra Victoriano Huerta, el 26 de marzo de 1913?",
+            "opciones": {
+              "a": "Francisco Villa",
+              "b": "Emiliano Zapata",
+              "c": "Álvaro Obregón",
+              "d": "Venustiano Carranza"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Quién fue electo presidente por la Convención de Aguascalientes?",
+            "opciones": {
+              "a": "Venustiano Carranza",
+              "b": "Francisco Villa",
+              "c": "Emiliano Zapata",
+              "d": "Eulalio Gutiérrez"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿En qué batallas, el General Álvaro Obregón derrotó a las fuerzas de la División del Norte de Francisco Villa?",
+            "opciones": {
+              "a": "Batalla de Zacatecas y Puebla",
+              "b": "Batallas de Torreón y Tampico",
+              "c": "Batalla de Juárez y Chihuahua",
+              "d": "Batallas de León y Celaya"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿En qué periodo de gobierno se crea la Secretaría de Educación Pública?",
+            "opciones": {
+              "a": "Gobierno de Calles",
+              "b": "Gobierno de Carranza",
+              "c": "Gobierno de Madero",
+              "d": "Gobierno de Obregón"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué personaje dirige la Secretaría de Educación Pública?",
+            "opciones": {
+              "a": "Plutarco Elías Calles",
+              "b": "Francisco Villa",
+              "c": "Venustiano Carranza",
+              "d": "José Vasconcelos"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿En qué consistieron los Tratados de Bucareli?",
+            "opciones": {
+              "a": "México cede territorio a Estados Unidos",
+              "b": "Se reanudan relaciones diplomáticas entre México y Francia",
+              "c": "Se establece la soberanía mexicana en el petróleo",
+              "d": "Estados Unidos reconoce el gobierno de Obregón"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿En qué gobierno es asesinado el General Francisco Villa, en la ciudad de Parral, Chihuahua?",
+            "opciones": {
+              "a": "Gobierno de Calles",
+              "b": "Gobierno de Carranza",
+              "c": "Gobierno de Zapata",
+              "d": "Gobierno de Obregón"
+            },
+            "respuesta_correcta": "d"
+          },
+          {
+            "materia": "historia de México",
+            "pregunta": "¿Qué presidente crea el Banco de México?",
+            "opciones": {
+              "a": "Álvaro Obregón",
+              "b": "Venustiano Carranza",
+              "c": "Francisco I. Madero",
+              "d": "Plutarco Elías Calles"
+            },
+            "respuesta_correcta": "d"
+          },
+          
+          {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente le concede la autonomía a la Universidad Nacional en 1929?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Lázaro Cárdenas",
+                "c": "Álvaro Obregón",
+                "d": "Emilio Portes Gil"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente funda el Partido Nacional Revolucionario (PNR)?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Lázaro Cárdenas",
+                "c": "Venustiano Carranza",
+                "d": "Emilio Portes Gil"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente crea el ejido colectivo?",
+              "opciones": {
+                "a": "Emilio Portes Gil",
+                "b": "Plutarco Elías Calles",
+                "c": "Álvaro Obregón",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente crea el Instituto Politécnico Nacional?",
+              "opciones": {
+                "a": "Álvaro Obregón",
+                "b": "Emilio Portes Gil",
+                "c": "Plutarco Elías Calles",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente decreta la Expropiación Petrolera, el 18 de marzo de 1938?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Álvaro Obregón",
+                "c": "Venustiano Carranza",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente crea la educación socialista?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Emilio Portes Gil",
+                "c": "Venustiano Carranza",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente crea la CTM y la CNC?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Miguel Alemán",
+                "c": "Álvaro Obregón",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente inicia el periodo de los presidentes civiles?",
+              "opciones": {
+                "a": "Lázaro Cárdenas",
+                "b": "Emilio Portes Gil",
+                "c": "Plutarco Elías Calles",
+                "d": "Miguel Alemán"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente les concedió asilo a los exiliados españoles de la Guerra Civil Española?",
+              "opciones": {
+                "a": "Plutarco Elías Calles",
+                "b": "Miguel Alemán",
+                "c": "Venustiano Carranza",
+                "d": "Lázaro Cárdenas"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Con cuál presidente de México se inicia el desarrollo estabilizador?",
+              "opciones": {
+                "a": "Adolfo López Mateos",
+                "b": "Gustavo Díaz Ordaz",
+                "c": "Luis Echeverría",
+                "d": "Adolfo Ruiz Cortines"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente de México creó el INFONAVIT?",
+              "opciones": {
+                "a": "Adolfo López Mateos",
+                "b": "Gustavo Díaz Ordaz",
+                "c": "José López Portillo",
+                "d": "Luis Echeverría"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente de México creó la Comisión Nacional de Libro de Texto Gratuito?",
+              "opciones": {
+                "a": "Adolfo Ruiz Cortines",
+                "b": "Gustavo Díaz Ordaz",
+                "c": "Luis Echeverría",
+                "d": "Adolfo López Mateos"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente basó la economía en el petróleo?",
+              "opciones": {
+                "a": "Luis Echeverría",
+                "b": "Miguel de la Madrid",
+                "c": "Carlos Salinas",
+                "d": "José López Portillo"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente quiso defender al peso como “un perro”?",
+              "opciones": {
+                "a": "Luis Echeverría",
+                "b": "Gustavo Díaz Ordaz",
+                "c": "Carlos Salinas",
+                "d": "José López Portillo"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente concedió la mayoría de edad a los 18 años?",
+              "opciones": {
+                "a": "Luis Echeverría",
+                "b": "José López Portillo",
+                "c": "Miguel de la Madrid",
+                "d": "Gustavo Díaz Ordaz"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente nacionalizó la Banca?",
+              "opciones": {
+                "a": "Carlos Salinas",
+                "b": "Luis Echeverría",
+                "c": "Ernesto Zedillo",
+                "d": "José López Portillo"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Qué presidente creó el Impuesto al Valor Agregado (IVA)?",
+              "opciones": {
+                "a": "Luis Echeverría",
+                "b": "Carlos Salinas",
+                "c": "Miguel de la Madrid",
+                "d": "José López Portillo"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿En México, cuando el Estado intervino en la economía, se le conoció con el nombre de?",
+              "opciones": {
+                "a": "Desarrollo Estabilizador",
+                "b": "Nacionalismo Económico",
+                "c": "Neoliberalismo",
+                "d": "Desarrollo Compartido"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿Desde 1952 hasta 1972, se experimentó un crecimiento económico-industrial mexicano, mejor conocido como?",
+              "opciones": {
+                "a": "Desarrollo Compartido",
+                "b": "Milagro Mexicano",
+                "c": "Modernización",
+                "d": "Desarrollo Estabilizador"
+              },
+              "respuesta_correcta": "d"
+            },
+            {
+              "materia": "historia de México",
+              "pregunta": "¿El Pacto de la Solidaridad Económica fue creado por?",
+              "opciones": {
+                "a": "José López Portillo",
+                "b": "Adolfo Ruiz Cortines",
+                "c": "Carlos Salinas de Gortari",
+                "d": "Miguel De la Madrid"
+              },
+              "respuesta_correcta": "d"
+            },
+  
+  
   {
     "materia": "Literatura",
     "pregunta": "¿Autor de 'La Divina Comedia'?",
