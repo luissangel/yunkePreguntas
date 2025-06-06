@@ -898,6 +898,451 @@
             },
   
   
+  
+  
+  {
+      "materia": "Historia Universal",
+      "pregunta": "¿Año de inicio de la primera guerra mundial?",
+      "opciones": {
+        "a": "1914",
+        "b": "1916",
+        "c": "1918",
+        "d": "1920"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Cuál fue la consecuencia de la Primera Guerra Mundial?",
+      "opciones": {
+        "a": "La formación de la ONU",
+        "b": "El inicio de la Guerra Fría",
+        "c": "La Gran Depresión",
+        "d": "Los tratados de Versalles"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Año de inicio de la segunda guerra mundial?",
+      "opciones": {
+        "a": "1920",
+        "b": "1914",
+        "c": "1945",
+        "d": "1939"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Año de la revolución Francesa?",
+      "opciones": {
+        "a": "1720",
+        "b": "1789",
+        "c": "1914",
+        "d": "1800"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Qué países se independizaron por primera vez de la URSS?",
+      "opciones": {
+        "a": "Ucrania, Bielorrusia y Moldavia",
+        "b": "Kazajistán, Uzbekistán y Turkmenistán",
+        "c": "Estonia, Letonia y Lituania",
+        "d": "Georgia, Armenia y Azerbaiyán"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿La razón, el progreso y la ley natural, son características de?",
+      "opciones": {
+        "a": "El Renacimiento",
+        "b": "La Revolución Industrial",
+        "c": "El Romanticismo",
+        "d": "La Ilustración"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Con la caída del imperio Bizantino en Constantinopla, comenzó la edad?",
+      "opciones": {
+        "a": "Antigua",
+        "b": "Media",
+        "c": "Contemporánea",
+        "d": "Moderna"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Con qué acontecimiento se inicia la edad contemporánea?",
+      "opciones": {
+        "a": "La caída de Constantinopla",
+        "b": "El descubrimiento de América",
+        "c": "La Revolución Industrial",
+        "d": "La Revolución Francesa"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Cuál fue la actividad económica de Hispanoamérica durante los siglos XVII y XVIII?",
+      "opciones": {
+        "a": "Agricultura",
+        "b": "Ganadería",
+        "c": "Comercio",
+        "d": "Minería"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Cuál fue la causa por la que se dio la Segunda Revolución Industrial?",
+      "opciones": {
+        "a": "Por la inteligencia artificial",
+        "b": "La invención del celular",
+        "c": "El desarrollo del comercio electrónico",
+        "d": "Por el petróleo y la electricidad"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Modelo económico sin fronteras?",
+      "opciones": {
+        "a": "Capitalismo",
+        "b": "Socialismo",
+        "c": "Mercantilismo",
+        "d": "Globalización"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Característica de la tercera Revolución Científica y Tecnológica?",
+      "opciones": {
+        "a": "Energía nuclear",
+        "b": "Invención del telégrafo",
+        "c": "Desarrollo de la aviación",
+        "d": "Informática y electrónica"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Cuál es el sujeto de la Historia?",
+      "opciones": {
+        "a": "El tiempo",
+        "b": "La sociedad",
+        "c": "Los eventos históricos",
+        "d": "El hombre"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Qué países independizó Simón Bolívar?",
+      "opciones": {
+        "a": "Ecuador, Argentina, Chile y Paraguay",
+        "b": "Bolivia, Venezuela, Colombia y Perú",
+        "c": "Uruguay, Brasil, México y Cuba",
+        "d": "España, Portugal, Italia y Francia"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "materia": "Historia Universal",
+      "pregunta": "¿Qué combustible es utilizado en la Segunda Revolución Científica y tecnológica?",
+      "opciones": {
+        "a": "Carbón",
+        "b": "Gas natural",
+        "c": "Energía nuclear",
+        "d": "Petróleo"
+      },
+      "respuesta_correcta": "d"
+    },
+    
+    {
+        "materia": "Historia Universal",
+        "pregunta": "¿Qué combustible es utilizado en la Primera Revolución Científica y tecnológica?",
+        "opciones": {
+          "a": "Carbón",
+          "b": "Gas natural",
+          "c": "Energía nuclear",
+          "d": "Petróleo"
+        },
+        "respuesta_correcta": "Carbón"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Cuáles son las potencias militaristas?",
+        "opciones": {
+          "a": "Francia, Reino Unido y Estados Unidos",
+          "b": "Rusia, China y Corea del Sur",
+          "c": "Alemania, Italia y Japón",
+          "d": "Argentina, Brasil y México"
+        },
+        "respuesta_correcta": "Alemania, Italia y Japón"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Cuáles fueron las causas de la independencia de las trece colonias?",
+        "opciones": {
+          "a": "Conflictos con los nativos americanos",
+          "b": "Impuestos al té y al timbre postal y la guerra de los 7 años",
+          "c": "Prohibición del comercio internacional",
+          "d": "Descontento con la monarquía británica"
+        },
+        "respuesta_correcta": "Impuestos al té y al timbre postal y la guerra de los 7 años"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Cuál es la característica principal del movimiento de revolución de 1948?",
+        "opciones": {
+          "a": "Independencia de las colonias",
+          "b": "Revolución agraria",
+          "c": "Lucha por la igualdad de género",
+          "d": "Los obreros pelean por sus derechos"
+        },
+        "respuesta_correcta": "Los obreros pelean por sus derechos"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Cómo se periodiza la historia según el materialismo histórico?",
+        "opciones": {
+          "a": "Por los grandes acontecimientos políticos",
+          "b": "Por las revoluciones culturales",
+          "c": "Por los avances tecnológicos",
+          "d": "Por los modos de producción."
+        },
+        "respuesta_correcta": "Por los modos de producción."
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Una rama del Neoliberalismo es?",
+        "opciones": {
+          "a": "El Socialismo",
+          "b": "El Proteccionismo",
+          "c": "El Mercantilismo",
+          "d": "La Globalización"
+        },
+        "respuesta_correcta": "La Globalización"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Movimiento liberal que acabó con las monarquías absolutistas con el apoyo de la burguesía?",
+        "opciones": {
+          "a": "Revolución Industrial",
+          "b": "Guerra de los Treinta Años",
+          "c": "Revolución Francesa",
+          "d": "Independencia de América"
+        },
+        "respuesta_correcta": "Revolución Francesa"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Quién gobernó a Francia después de la Revolución Francesa?",
+        "opciones": {
+          "a": "Luis XVI",
+          "b": "Maximilien Robespierre",
+          "c": "Carlos X",
+          "d": "Napoleón Bonaparte"
+        },
+        "respuesta_correcta": "Napoleón Bonaparte"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Qué países se enfrentaron en la guerra del Opio (1839-1842)?",
+        "opciones": {
+          "a": "Francia y Japón",
+          "b": "Rusia y China",
+          "c": "Estados Unidos y México",
+          "d": "Inglaterra y China"
+        },
+        "respuesta_correcta": "Inglaterra y China"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Qué países conformaron las potencias del Eje?",
+        "opciones": {
+          "a": "Estados Unidos, Reino Unido, Francia",
+          "b": "Alemania, Italia, Japón",
+          "c": "Rusia, China, Corea del Norte",
+          "d": "Brasil, Argentina, Chile"
+        },
+        "respuesta_correcta": "Alemania, Italia, Japón"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "Ordena cronológicamente los siguientes acontecimientos de la Segunda Guerra Mundial: 1. Desembarco aliado en Normandía, 2. Ataque japonés a Pearl Harbor, 3. Guerra relámpago, 4. Batalla de Inglaterra, 5. Las bombas atómicas, 6. Invasión alemana a Polonia",
+        "opciones": {
+          "a": "6-3-4-2-1-5",
+          "b": "3-6-2-4-1-5",
+          "c": "6-4-3-2-5-1",
+          "d": "3-2-4-6-1-5"
+        },
+        "respuesta_correcta": "6-3-4-2-1-5"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Dónde se crea la ONU?",
+        "opciones": {
+          "a": "En la conferencia de Yalta",
+          "b": "En la conferencia de Potsdam",
+          "c": "En la conferencia de San Francisco",
+          "d": "En la conferencia de París"
+        },
+        "respuesta_correcta": "En la conferencia de San Francisco"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Cuál fue la zona de conflicto de la Primera Guerra Mundial?",
+        "opciones": {
+          "a": "África del Norte",
+          "b": "El Pacífico",
+          "c": "Los Balcanes",
+          "d": "El Atlántico Norte"
+        },
+        "respuesta_correcta": "Los Balcanes"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Dirigente del Nazismo?",
+        "opciones": {
+          "a": "Mussolini",
+          "b": "Stalin",
+          "c": "Franco",
+          "d": "Hitler"
+        },
+        "respuesta_correcta": "Hitler"
+      },
+      {
+        "materia": "Historia Universal",
+        "pregunta": "¿Causa inmediata que provocó el inicio de la Primera Guerra Mundial?",
+        "opciones": {
+          "a": "El tratado de Versalles",
+          "b": "La Revolución Rusa",
+          "c": "La Gran Depresión",
+          "d": "El asesinato del Archiduque Francisco Fernando"
+        },
+        "respuesta_correcta": "El asesinato del Archiduque Francisco Fernando"
+      },
+      
+      {
+          "materia": "Historia Universal",
+          "pregunta": "¿Qué países integraron el Congreso de Viena y la Santa Alianza en 1815?",
+          "opciones": {
+            "a": "Francia, Italia y España",
+            "b": "Austria, Prusia y Rusia",
+            "c": "Reino Unido, Estados Unidos y Portugal",
+            "d": "China, Japón y Corea"
+          },
+          "respuesta_correcta": "Austria, Prusia y Rusia"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "Ordena cronológicamente los siguientes acontecimientos durante la etapa de entreguerras: I. Hitler toma el poder, II. Stalin toma el poder en la URSS, III. Guerra Civil Española, IV. Crisis Capitalista, V. Creación de la URSS",
+          "opciones": {
+            "a": "V-IV-II-I-III",
+            "b": "IV-V-II-III-I",
+            "c": "V-II-IV-I-III",
+            "d": "IV-V-I-II-III"
+          },
+          "respuesta_correcta": "V-II-IV-I-III"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿En qué guerra se da el enfrentamiento entre la Triple Entente contra las Potencias Centrales?",
+          "opciones": {
+            "a": "Guerra Franco-Prusiana",
+            "b": "Guerra de Secesión Americana",
+            "c": "Primera Guerra Mundial",
+            "d": "Segunda Guerra Mundial"
+          },
+          "respuesta_correcta": "Primera Guerra Mundial"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Cuáles son las consecuencias de la Guerra Fría?",
+          "opciones": {
+            "a": "Caída del Muro de Berlín y la Unión Soviética",
+            "b": "Formación de los bloques de poder y la OTAN",
+            "c": "Independencia de las colonias africanas y asiáticas",
+            "d": "Inicio de la tercera revolución industrial"
+          },
+          "respuesta_correcta": "Formación de los bloques de poder y la OTAN"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Cuáles son las consecuencias de la Primera Guerra Mundial?",
+          "opciones": {
+            "a": "Formación de la Sociedad de Naciones",
+            "b": "Inicio de la Guerra Fría",
+            "c": "Creación de la OTAN",
+            "d": "Separación de Austria y Hungría"
+          },
+          "respuesta_correcta": "Separación de Austria y Hungría"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Cuál es la finalidad de la Doctrina Truman?",
+          "opciones": {
+            "a": "Promover el socialismo en Europa",
+            "b": "Fomentar el nacionalismo en Asia",
+            "c": "Evitar que el comunismo se extendiera",
+            "d": "Expandir el comunismo en América Latina"
+          },
+          "respuesta_correcta": "Evitar que el comunismo se extendiera"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "A principios del siglo XX, surge un conflicto mundial de la Entente contra las Potencias Centrales, ¿Cuál fue?",
+          "opciones": {
+            "a": "La Guerra Franco-Prusiana",
+            "b": "La Segunda Guerra Mundial",
+            "c": "La Guerra Civil Española",
+            "d": "La Primera Guerra Mundial"
+          },
+          "respuesta_correcta": "La Primera Guerra Mundial"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Revolución burguesa que lleva la ilustración a la práctica y donde desaparece la monarquía?",
+          "opciones": {
+            "a": "Revolución Industrial",
+            "b": "Revolución Rusa",
+            "c": "Revolución China",
+            "d": "Revolución Francesa"
+          },
+          "respuesta_correcta": "Revolución Francesa"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Cuál es la característica principal de la Primera Guerra Mundial?",
+          "opciones": {
+            "a": "Tecnología militar avanzada",
+            "b": "Guerra de trincheras",
+            "c": "Alianzas",
+            "d": "Quiebra de bancos"
+          },
+          "respuesta_correcta": "Alianzas"
+        },
+        {
+          "materia": "Historia Universal",
+          "pregunta": "¿Qué caracteriza a los regímenes totalitarios (Fascismo, nazismo y militarismo japonés)?",
+          "opciones": {
+            "a": "Libertad de expresión y prensa",
+            "b": "Separación de poderes",
+            "c": "Supresión de los derechos individuales",
+            "d": "Estado de derecho y democracia"
+          },
+          "respuesta_correcta": "Supresión de los derechos individuales"
+        },
+  
   {
     "materia": "Literatura",
     "pregunta": "¿Autor de 'La Divina Comedia'?",
