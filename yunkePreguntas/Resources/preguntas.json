@@ -1343,17 +1343,672 @@
           "respuesta_correcta": "Supresión de los derechos individuales"
         },
   
+  
+  
   {
-    "materia": "Literatura",
-    "pregunta": "¿Autor de 'La Divina Comedia'?",
-    "opciones": {
-      "a": "Dante Alighieri",
-      "b": "Shakespeare",
-      "c": "Homero",
-      "d": "Virgilio"
+      "materia": "Literatura",
+      "pregunta": "¿Poema dramático que cuenta la vida de la familia real de Tebas?",
+      "opciones": {
+        "a": "Edipo Rey",
+        "b": "La Ilíada",
+        "c": "La Odisea",
+        "d": "La Eneida"
+      },
+      "respuesta_correcta": "a"
     },
-    "respuesta_correcta": "a"
-  },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Género antiguo que narra hazañas de hombres y héroes?",
+      "opciones": {
+        "a": "Épico",
+        "b": "Drama",
+        "c": "Lírica",
+        "d": "Narrativo"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Texto escrito para ser representado?",
+      "opciones": {
+        "a": "Texto dramático",
+        "b": "Poema",
+        "c": "Novela",
+        "d": "Ensayo"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Movimiento literario al cual pertenece Azul y Prosas profanas?",
+      "opciones": {
+        "a": "Modernismo",
+        "b": "Realismo",
+        "c": "Naturalismo",
+        "d": "Barroco"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Autor de la epopeya romana más importante de la Edad de Oro La Eneida?",
+      "opciones": {
+        "a": "Virgilio",
+        "b": "Homero",
+        "c": "Ovidio",
+        "d": "Horacio"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Los representantes de la literatura realista son?",
+      "opciones": {
+        "a": "Balzac, Galdós, Flaubert",
+        "b": "Homer, Virgilio, Horacio",
+        "c": "Edgar Allan Poe, Nathaniel Hawthorne",
+        "d": "Fitzgerald, Hemingway"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Corriente artística del siglo XIX que describe la vida del hombre de forma fiel y objetiva?",
+      "opciones": {
+        "a": "Realismo",
+        "b": "Modernismo",
+        "c": "Romanticismo",
+        "d": "Barroco"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Género literario que relata o narra historias de dioses y héroes?",
+      "opciones": {
+        "a": "Epopeya",
+        "b": "Épico",
+        "c": "Drama",
+        "d": "Novela"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Cultura de la antigüedad oriental que aportó la escritura?",
+      "opciones": {
+        "a": "Mesopotámica",
+        "b": "Egipcia",
+        "c": "China",
+        "d": "Griega"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Cultura antigua que aportó el papiro a la humanidad?",
+      "opciones": {
+        "a": "Egipcia",
+        "b": "Mesopotámica",
+        "c": "China",
+        "d": "Griega"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Papel del antagonista?",
+      "opciones": {
+        "a": "Generar conflicto",
+        "b": "Resolver conflictos",
+        "c": "Guiar la historia",
+        "d": "Apoyar al protagonista"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Estructura de la novela?",
+      "opciones": {
+        "a": "Narrativa",
+        "b": "Lírica",
+        "c": "Épica",
+        "d": "Didáctica"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Cuenta la guerra de dos familias reales de la India?",
+      "opciones": {
+        "a": "Mahabharata",
+        "b": "La Ilíada",
+        "c": "La Odisea",
+        "d": "El Ramayana"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿El Panchatantra representa el género?",
+      "opciones": {
+        "a": "Didáctico",
+        "b": "Épico",
+        "c": "Lírica",
+        "d": "Tragedia"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "materia": "Literatura",
+      "pregunta": "¿Representante del género erótico, poeta romano de la Edad de Oro?",
+      "opciones": {
+        "a": "Ovidio",
+        "b": "Virgilio",
+        "c": "Horacio",
+        "d": "Plauto"
+      },
+      "respuesta_correcta": "a"
+    },
+    
+    {
+        "materia": "Literatura",
+        "pregunta": "¿Representante de la epopeya romana, autor de Odas y Sátiras?",
+        "opciones": {
+          "a": "Horacio",
+          "b": "Virgilio",
+          "c": "Ovidio",
+          "d": "Plauto"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Representante de la formación de Roma, comediógrafo?",
+        "opciones": {
+          "a": "Plauto",
+          "b": "Ovidio",
+          "c": "Horacio",
+          "d": "Virgilio"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Representante de la comedia griega?",
+        "opciones": {
+          "a": "Aristófanes",
+          "b": "Sófocles",
+          "c": "Eurípides",
+          "d": "Esquilo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Poeta romano, autor de Epístolas, Sátiras y Odas?",
+        "opciones": {
+          "a": "Horacio",
+          "b": "Ovidio",
+          "c": "Virgilio",
+          "d": "Plauto"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Obras literarias del siglo XVIII, poemas que representan el amor entre un poeta y su dama?",
+        "opciones": {
+          "a": "Lírica trovadoresca",
+          "b": "Épica",
+          "c": "Tragedia",
+          "d": "Comedia"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Corriente artística del siglo XIX que describe la vida del hombre de forma fiel y objetiva?",
+        "opciones": {
+          "a": "Realismo",
+          "b": "Romanticismo",
+          "c": "Modernismo",
+          "d": "Naturalismo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Género narrativo que explica de manera fantástica el origen de la naturaleza y el hombre?",
+        "opciones": {
+          "a": "Mito",
+          "b": "Epopeya",
+          "c": "Leyenda",
+          "d": "Fábula"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Está representado con la poesía amorosa?",
+        "opciones": {
+          "a": "Lírico",
+          "b": "Épico",
+          "c": "Narrativo",
+          "d": "Didáctico"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Corriente literaria surgida en América Latina a fines del siglo XIX, repudia la crudeza del naturalismo y parte de lo estético, bello y musical?",
+        "opciones": {
+          "a": "Modernismo",
+          "b": "Realismo",
+          "c": "Romanticismo",
+          "d": "Naturalismo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Poeta que inició la corriente modernista?",
+        "opciones": {
+          "a": "Rubén Darío",
+          "b": "José Asunción Silva",
+          "c": "Leopoldo Lugones",
+          "d": "Amado Nervo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Pieza teatral que tiene un solo personaje principal y está predestinado con un final funesto?",
+        "opciones": {
+          "a": "Tragedia",
+          "b": "Comedia",
+          "c": "Drama",
+          "d": "Monólogo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Narración corta que se caracteriza por su brevedad, tensión y rápido desenlace?",
+        "opciones": {
+          "a": "Cuento",
+          "b": "Novela corta",
+          "c": "Fábula",
+          "d": "Relato"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿La estructura de los cuentos y novelas es?",
+        "opciones": {
+          "a": "Inicio, desarrollo, clímax y desenlace",
+          "b": "Introducción, desarrollo, conclusión",
+          "c": "Exposición, nudo y desenlace",
+          "d": "Planteamiento, conflicto, resolución"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Género literario cuyo formato es el verso y expresa sentimientos, emociones e inquietudes humanas. Es subjetivo?",
+        "opciones": {
+          "a": "Lírico",
+          "b": "Épico",
+          "c": "Dramático",
+          "d": "Narrativo"
+        },
+        "respuesta_correcta": "a"
+      },
+      {
+        "materia": "Literatura",
+        "pregunta": "¿Género literario que está escrito en diálogo, tiene acotaciones y surgió en la antigua Grecia?",
+        "opciones": {
+          "a": "Dramático",
+          "b": "Épico",
+          "c": "Lírico",
+          "d": "Narrativo"
+        },
+        "respuesta_correcta": "a"
+      },
+  
+  {
+     "materia": "Literatura",
+     "pregunta": "¿Género literario que narra hazañas heroicas, tiene finalidad patriótica?",
+     "opciones": {
+       "a": "Epopeya",
+       "b": "Cuento",
+       "c": "Tragedia",
+       "d": "Épico"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Género de la literatura que cuenta, narra y relata. Pertenecen a éste la novela, el cuento, la leyenda, el mito, etc.?",
+     "opciones": {
+       "a": "Épico",
+       "b": "Lírico",
+       "c": "Dramático",
+       "d": "Narrativo"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Corriente del arte que abarcó la segunda mitad del siglo XIX y surgió en Francia. Se opone al Romanticismo?",
+     "opciones": {
+       "a": "Realismo",
+       "b": "Naturalismo",
+       "c": "Modernismo",
+       "d": "Barroco"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Texto narrativo de estructura compleja, tiene inicio, desarrollo, climax y desenlace?",
+     "opciones": {
+       "a": "Novela",
+       "b": "Cuento",
+       "c": "Tragedia",
+       "d": "Epopeya"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Qué figura retórica se ve en la siguiente expresión? “La amapola es como la sangre de la tierra”?",
+     "opciones": {
+       "a": "Símil o comparación",
+       "b": "Metáfora",
+       "c": "Hipérbole",
+       "d": "Personificación"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Qué figura retórica predomina en la siguiente expresión? “Floralba, a las piedras les das alma”?",
+     "opciones": {
+       "a": "Hipérbole",
+       "b": "Metáfora",
+       "c": "Personificación",
+       "d": "Símil o comparación"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Qué figura retórica predomina en… “se fue, se fue como el ave hermosa”?",
+     "opciones": {
+       "a": "Símil o comparación",
+       "b": "Metáfora",
+       "c": "Hipérbole",
+       "d": "Personificación"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Qué figura retórica predomina en… “Tus cabellos plata”?",
+     "opciones": {
+       "a": "Metáfora",
+       "b": "Símil o comparación",
+       "c": "Hipérbole",
+       "d": "Personificación"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Cómo es la estructura de la novela?",
+     "opciones": {
+       "a": "Compleja",
+       "b": "Sencilla",
+       "c": "Lineal",
+       "d": "Cíclica"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Texto dramático surgido en Grecia que critica los vicios humanos, el personaje pertenece a la nobleza y el dolor sobrepasa al protagonista?",
+     "opciones": {
+       "a": "Tragedia",
+       "b": "Comedia",
+       "c": "Drama",
+       "d": "Epopeya"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Poema antiguo que narra hazañas de héroes?",
+     "opciones": {
+       "a": "Epopeya",
+       "b": "Lírico",
+       "c": "Épico",
+       "d": "Cuento"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Son obras del Modernismo?",
+     "opciones": {
+       "a": "Azul y cuentos de vida y esperanza",
+       "b": "Rimas y leyendas",
+       "c": "Don Quijote de la Mancha",
+       "d": "Épico"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Son obras del Romanticismo?",
+     "opciones": {
+       "a": "Rimas y Leyendas",
+       "b": "Azul y cuentos de vida y esperanza",
+       "c": "La Eneida",
+       "d": "Tragedia"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Variante del Realismo que describe y analiza la realidad sórdida, cruda y miserable del hombre?",
+     "opciones": {
+       "a": "Naturalismo",
+       "b": "Romanticismo",
+       "c": "Realismo",
+       "d": "Modernismo"
+     },
+     "respuesta_correcta": "a"
+   },
+   {
+     "materia": "Literatura",
+     "pregunta": "¿Corriente artística de la primera mitad del siglo XIX, su principal postulado es la libertad?",
+     "opciones": {
+       "a": "Romanticismo",
+       "b": "Realismo",
+       "c": "Modernismo",
+       "d": "Barroco"
+     },
+     "respuesta_correcta": "a"
+   },
+   
+   {
+       "materia": "Literatura",
+       "pregunta": "¿Es una característica del modernismo?",
+       "opciones": {
+         "a": "La musicalidad",
+         "b": "La sencillez",
+         "c": "El realismo",
+         "d": "La objetividad"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Característica del romanticismo?",
+       "opciones": {
+         "a": "Individualidad",
+         "b": "Colectivismo",
+         "c": "Realismo",
+         "d": "Objetividad"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Verso de 14 sílabas?",
+       "opciones": {
+         "a": "Alejandrino",
+         "b": "Endecasílabo",
+         "c": "Lira",
+         "d": "Octosílabo"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Verso de 11 sílabas?",
+       "opciones": {
+         "a": "Endecasílabo",
+         "b": "Alejandrino",
+         "c": "Octosílabo",
+         "d": "Decasílabo"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Primer movimiento literario surgido en Hispanoamérica?",
+       "opciones": {
+         "a": "Modernismo",
+         "b": "Realismo",
+         "c": "Romanticismo",
+         "d": "Barroco"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Año en que surge el romanticismo?",
+       "opciones": {
+         "a": "1808",
+         "b": "1750",
+         "c": "1900",
+         "d": "1850"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿A qué género narrativo pertenece la novela?",
+       "opciones": {
+         "a": "Épico",
+         "b": "Lírico",
+         "c": "Dramático",
+         "d": "Didáctico"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿Qué es el cuento?",
+       "opciones": {
+         "a": "Narración breve en prosa",
+         "b": "Narración extensa en verso",
+         "c": "Relato histórico",
+         "d": "Diálogo dramático"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Obras de Ignacio Manuel Altamirano",
+       "opciones": {
+         "a": "Navidad en las montañas y el Zarco",
+         "b": "Rimas y leyendas",
+         "c": "Cien años de soledad",
+         "d": "El Quijote"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Constituye en el relato la parte que sucede inmediatamente después del momento culminante de la narración",
+       "opciones": {
+         "a": "Desenlace",
+         "b": "Inicio",
+         "c": "Clímax",
+         "d": "Exposición"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Movimiento armónico que se encuentra en el poema",
+       "opciones": {
+         "a": "Ritmo",
+         "b": "Rima",
+         "c": "Estrofa",
+         "d": "Verso"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Es la primera epopeya",
+       "opciones": {
+         "a": "Gilgamesh",
+         "b": "La Iliada",
+         "c": "La Odisea",
+         "d": "La Eneida"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Representante de la comedia romana",
+       "opciones": {
+         "a": "Plauto",
+         "b": "Terencio",
+         "c": "Cicerón",
+         "d": "Horacio"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "Autor de la Guerra de las Galias",
+       "opciones": {
+         "a": "Cayo Julio Cesar",
+         "b": "Octavio Augusto",
+         "c": "Marco Antonio",
+         "d": "Tito Livio"
+       },
+       "respuesta_correcta": "a"
+     },
+     {
+       "materia": "Literatura",
+       "pregunta": "¿A qué género pertenece el Mio Cid?",
+       "opciones": {
+         "a": "Épico",
+         "b": "Lírico",
+         "c": "Dramático",
+         "d": "Narrativo"
+       },
+       "respuesta_correcta": "a"
+     },
+  
 
   {
       "materia": "Biología",
