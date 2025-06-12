@@ -348,12 +348,12 @@
           "materia": "historia de México",
           "pregunta": "¿Cómo se llamaron los tratados por los cuales, el General Santa Anna reconoce la independencia de Texas en 1836?",
           "opciones": {
-            "a": "Tratados de Córdoba",
+            "a": "Tratados de Velasco",
             "b": "Tratados de Gadsen",
             "c": "Tratados de Guadalupe",
-            "d": "Tratados de Velasco"
+            "d": "Tratados de Córdoba"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "a"
         },
         {
           "materia": "historia de México",
@@ -361,10 +361,10 @@
           "opciones": {
             "a": "Constitución de 1812",
             "b": "Constitución de 1857",
-            "c": "Constitución de 1917",
-            "d": "Constitución de 1824"
+            "c": "Constitución de 1924",
+            "d": "Constitución de 1817"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "historia de México",
@@ -382,11 +382,11 @@
           "pregunta": "¿En los primeros años del México independiente, qué fuerzas políticas contendieron?",
           "opciones": {
             "a": "Liberales y Conservadores",
-            "b": "Reformistas y Revolucionarios",
+            "b": "Centralistas y Federalistas",
             "c": "Monárquicos y Republicanos",
-            "d": "Centralistas y Federalistas"
+            "d": "Reformistas y Revolucionarios"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "b"
         },
         {
           "materia": "historia de México",
@@ -394,21 +394,21 @@
           "opciones": {
             "a": "Federalista",
             "b": "Conservadora",
-            "c": "Liberal",
-            "d": "Centralista"
+            "c": "Centralista",
+            "d": "Liberal"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "historia de México",
           "pregunta": "¿Qué tendencia política tenía la Logia Yorkina?",
           "opciones": {
-            "a": "Conservadora",
+            "a": "Federalista",
             "b": "Liberal",
             "c": "Centralista",
-            "d": "Federalista"
+            "d": "Conservadora"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "a"
         },
         {
           "materia": "historia de México",
@@ -426,11 +426,11 @@
           "pregunta": "¿Cuál era la función de la CROM?",
           "opciones": {
             "a": "Representar a los empresarios",
-            "b": "Fomentar la competencia laboral",
+            "b": "Apoyar a los obreros",
             "c": "Promover la desigualdad salarial",
-            "d": "Apoyar a los obreros"
+            "d": "Fomentar la competencia laboral"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "b"
         },
         {
           "materia": "historia de México",
@@ -448,22 +448,22 @@
           "pregunta": "¿Cuáles fueron las reformas que afectaron a la Nueva España, las cuales fueron impuestas por los franceses?",
           "opciones": {
             "a": "Reformas Constitucionales",
-            "b": "Reformas Liberales",
+            "b": "Reformas Borbónicas",
             "c": "Reformas Neoliberales",
-            "d": "Reformas Borbónicas"
+            "d": "Reformas Liberales"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "b"
         },
         {
           "materia": "historia de México",
           "pregunta": "¿Qué personaje introduce el positivismo en México?",
           "opciones": {
-            "a": "Porfirio Díaz",
+            "a": "Gabino Barreda",
             "b": "Benito Juárez",
             "c": "José Vasconcelos",
-            "d": "Gabino Barreda"
+            "d": "Porfirio Díaz"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "a"
         },
         {
           "materia": "historia de México",
@@ -471,10 +471,10 @@
           "opciones": {
             "a": "Golpes de estado",
             "b": "Acuerdos internacionales",
-            "c": "Conflictos armados",
-            "d": "Elecciones"
+            "c": "Elecciones",
+            "d": "Conflictos armados"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "historia de México",
@@ -491,12 +491,12 @@
           "materia": "historia de México",
           "pregunta": "Los juaristas, porfiristas y lerdistas, ¿a qué corriente ideológica pertenecieron?",
           "opciones": {
-            "a": "Conservadores",
+            "a": "Liberales",
             "b": "Socialistas",
             "c": "Comunistas",
-            "d": "Liberales"
+            "d": "Conservadores"
           },
-          "respuesta_correcta": "d"
+          "respuesta_correcta": "a"
         },
         {
           "materia": "historia de México",
@@ -516,10 +516,10 @@
             "opciones": {
               "a": "Socialismo",
               "b": "Liberalismo",
-              "c": "Romanticismo",
-              "d": "Positivismo"
+              "c": "Positivismo",
+              "d": "Romanticismo"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "c"
           },
           {
             "materia": "historia de México",
@@ -537,11 +537,11 @@
             "pregunta": "¿Qué partido político funda Francisco I. Madero?",
             "opciones": {
               "a": "Partido Liberal Mexicano",
-              "b": "Partido Constitucionalista",
+              "b": "Partido Antirreeleccionista",
               "c": "Partido Revolucionario",
-              "d": "Partido Antirreeleccionista"
+              "d": "Partido Constitucionalista"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "b"
           },
           {
             "materia": "historia de México",
@@ -571,10 +571,10 @@
             "opciones": {
               "a": "Porfirio Díaz",
               "b": "Venustiano Carranza",
-              "c": "Álvaro Obregón",
-              "d": "Victoriano Huerta"
+              "c": "Victoriano Huerta",
+              "d":  "Álvaro Obregón"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "c"
           },
           {
             "materia": "historia de México",
@@ -592,22 +592,22 @@
             "pregunta": "¿Qué jefe revolucionario se pronuncia contra Victoriano Huerta, el 26 de marzo de 1913?",
             "opciones": {
               "a": "Francisco Villa",
-              "b": "Emiliano Zapata",
+              "b": "Venustiano Carranza",
               "c": "Álvaro Obregón",
-              "d": "Venustiano Carranza"
+              "d": "Emiliano Zapata"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "b"
           },
           {
             "materia": "historia de México",
             "pregunta": "¿Quién fue electo presidente por la Convención de Aguascalientes?",
             "opciones": {
               "a": "Venustiano Carranza",
-              "b": "Francisco Villa",
+              "b": "Eulalio Gutiérrez",
               "c": "Emiliano Zapata",
-              "d": "Eulalio Gutiérrez"
+              "d": "Francisco Villa"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "b"
           },
           {
             "materia": "historia de México",
@@ -624,23 +624,23 @@
             "materia": "historia de México",
             "pregunta": "¿En qué periodo de gobierno se crea la Secretaría de Educación Pública?",
             "opciones": {
-              "a": "Gobierno de Calles",
+              "a": "Gobierno de Obregón",
               "b": "Gobierno de Carranza",
               "c": "Gobierno de Madero",
-              "d": "Gobierno de Obregón"
+              "d": "Gobierno de Calles"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "a"
           },
           {
             "materia": "historia de México",
             "pregunta": "¿Qué personaje dirige la Secretaría de Educación Pública?",
             "opciones": {
-              "a": "Plutarco Elías Calles",
+              "a": "José Vasconcelos",
               "b": "Francisco Villa",
               "c": "Venustiano Carranza",
-              "d": "José Vasconcelos"
+              "d": "Plutarco Elías Calles"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "a"
           },
           {
             "materia": "historia de México",
@@ -670,10 +670,10 @@
             "opciones": {
               "a": "Álvaro Obregón",
               "b": "Venustiano Carranza",
-              "c": "Francisco I. Madero",
-              "d": "Plutarco Elías Calles"
+              "c": "Plutarco Elías Calles",
+              "d": "Francisco I. Madero"
             },
-            "respuesta_correcta": "d"
+            "respuesta_correcta": "c"
           },
           
           
@@ -761,23 +761,23 @@
       "materia": "Historia Universal",
       "pregunta": "¿Con qué acontecimiento se inicia la edad contemporánea?",
       "opciones": {
-        "a": "La caída de Constantinopla",
+        "a": "La Revolución Francesa",
         "b": "El descubrimiento de América",
         "c": "La Revolución Industrial",
-        "d": "La Revolución Francesa"
+        "d": "La caída de Constantinopla"
       },
-      "respuesta_correcta": "d"
+      "respuesta_correcta": "a"
     },
     {
       "materia": "Historia Universal",
       "pregunta": "¿Cuál fue la actividad económica de Hispanoamérica durante los siglos XVII y XVIII?",
       "opciones": {
         "a": "Agricultura",
-        "b": "Ganadería",
+        "b": "Minería",
         "c": "Comercio",
-        "d": "Minería"
+        "d": "Ganadería"
       },
-      "respuesta_correcta": "d"
+      "respuesta_correcta": "b"
     },
     {
       "materia": "Historia Universal",
@@ -794,12 +794,12 @@
       "materia": "Historia Universal",
       "pregunta": "¿Modelo económico sin fronteras?",
       "opciones": {
-        "a": "Capitalismo",
+        "a": "Globalización",
         "b": "Socialismo",
         "c": "Mercantilismo",
-        "d": "Globalización"
+        "d": "Capitalismo"
       },
-      "respuesta_correcta": "d"
+      "respuesta_correcta": "a"
     },
     {
       "materia": "Historia Universal",
@@ -807,21 +807,21 @@
       "opciones": {
         "a": "Energía nuclear",
         "b": "Invención del telégrafo",
-        "c": "Desarrollo de la aviación",
-        "d": "Informática y electrónica"
+        "c": "Informática y electrónica",
+        "d": "Desarrollo de la aviación"
       },
-      "respuesta_correcta": "d"
+      "respuesta_correcta": "c"
     },
     {
       "materia": "Historia Universal",
       "pregunta": "¿Cuál es el sujeto de la Historia?",
       "opciones": {
         "a": "El tiempo",
-        "b": "La sociedad",
+        "b": "El hombre",
         "c": "Los eventos históricos",
-        "d": "El hombre"
+        "d": "La sociedad"
       },
-      "respuesta_correcta": "d"
+      "respuesta_correcta": "b"
     },
     {
       "materia": "Historia Universal",
@@ -855,7 +855,7 @@
           "c": "Energía nuclear",
           "d": "Petróleo"
         },
-        "respuesta_correcta": "Carbón"
+        "respuesta_correcta": "a"
       },
       {
         "materia": "Historia Universal",
@@ -866,7 +866,7 @@
           "c": "Alemania, Italia y Japón",
           "d": "Argentina, Brasil y México"
         },
-        "respuesta_correcta": "Alemania, Italia y Japón"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Historia Universal",
@@ -877,7 +877,7 @@
           "c": "Prohibición del comercio internacional",
           "d": "Descontento con la monarquía británica"
         },
-        "respuesta_correcta": "Impuestos al té y al timbre postal y la guerra de los 7 años"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Historia Universal",
@@ -888,7 +888,7 @@
           "c": "Lucha por la igualdad de género",
           "d": "Los obreros pelean por sus derechos"
         },
-        "respuesta_correcta": "Los obreros pelean por sus derechos"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -899,7 +899,7 @@
           "c": "Por los avances tecnológicos",
           "d": "Por los modos de producción."
         },
-        "respuesta_correcta": "Por los modos de producción."
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -910,7 +910,7 @@
           "c": "El Mercantilismo",
           "d": "La Globalización"
         },
-        "respuesta_correcta": "La Globalización"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -921,7 +921,7 @@
           "c": "Revolución Francesa",
           "d": "Independencia de América"
         },
-        "respuesta_correcta": "Revolución Francesa"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Historia Universal",
@@ -932,7 +932,7 @@
           "c": "Carlos X",
           "d": "Napoleón Bonaparte"
         },
-        "respuesta_correcta": "Napoleón Bonaparte"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -943,7 +943,7 @@
           "c": "Estados Unidos y México",
           "d": "Inglaterra y China"
         },
-        "respuesta_correcta": "Inglaterra y China"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -954,7 +954,7 @@
           "c": "Rusia, China, Corea del Norte",
           "d": "Brasil, Argentina, Chile"
         },
-        "respuesta_correcta": "Alemania, Italia, Japón"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Historia Universal",
@@ -965,7 +965,7 @@
           "c": "6-4-3-2-5-1",
           "d": "3-2-4-6-1-5"
         },
-        "respuesta_correcta": "6-3-4-2-1-5"
+        "respuesta_correcta": "a"
       },
       {
         "materia": "Historia Universal",
@@ -976,7 +976,7 @@
           "c": "En la conferencia de San Francisco",
           "d": "En la conferencia de París"
         },
-        "respuesta_correcta": "En la conferencia de San Francisco"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Historia Universal",
@@ -987,7 +987,7 @@
           "c": "Los Balcanes",
           "d": "El Atlántico Norte"
         },
-        "respuesta_correcta": "Los Balcanes"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Historia Universal",
@@ -998,7 +998,7 @@
           "c": "Franco",
           "d": "Hitler"
         },
-        "respuesta_correcta": "Hitler"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia Universal",
@@ -1009,7 +1009,7 @@
           "c": "La Gran Depresión",
           "d": "El asesinato del Archiduque Francisco Fernando"
         },
-        "respuesta_correcta": "El asesinato del Archiduque Francisco Fernando"
+        "respuesta_correcta": "d"
       },
       
       {
@@ -1021,7 +1021,7 @@
             "c": "Reino Unido, Estados Unidos y Portugal",
             "d": "China, Japón y Corea"
           },
-          "respuesta_correcta": "Austria, Prusia y Rusia"
+          "respuesta_correcta": "b"
         },
         {
           "materia": "Historia Universal",
@@ -1032,7 +1032,7 @@
             "c": "V-II-IV-I-III",
             "d": "IV-V-I-II-III"
           },
-          "respuesta_correcta": "V-II-IV-I-III"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "Historia Universal",
@@ -1043,7 +1043,7 @@
             "c": "Primera Guerra Mundial",
             "d": "Segunda Guerra Mundial"
           },
-          "respuesta_correcta": "Primera Guerra Mundial"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "Historia Universal",
@@ -1054,7 +1054,7 @@
             "c": "Independencia de las colonias africanas y asiáticas",
             "d": "Inicio de la tercera revolución industrial"
           },
-          "respuesta_correcta": "Formación de los bloques de poder y la OTAN"
+          "respuesta_correcta": "b"
         },
         {
           "materia": "Historia Universal",
@@ -1065,7 +1065,7 @@
             "c": "Creación de la OTAN",
             "d": "Separación de Austria y Hungría"
           },
-          "respuesta_correcta": "Separación de Austria y Hungría"
+          "respuesta_correcta": "d"
         },
         {
           "materia": "Historia Universal",
@@ -1076,7 +1076,7 @@
             "c": "Evitar que el comunismo se extendiera",
             "d": "Expandir el comunismo en América Latina"
           },
-          "respuesta_correcta": "Evitar que el comunismo se extendiera"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "Historia Universal",
@@ -1087,7 +1087,7 @@
             "c": "La Guerra Civil Española",
             "d": "La Primera Guerra Mundial"
           },
-          "respuesta_correcta": "La Primera Guerra Mundial"
+          "respuesta_correcta": "d"
         },
         {
           "materia": "Historia Universal",
@@ -1098,7 +1098,7 @@
             "c": "Revolución China",
             "d": "Revolución Francesa"
           },
-          "respuesta_correcta": "Revolución Francesa"
+          "respuesta_correcta": "d"
         },
         {
           "materia": "Historia Universal",
@@ -1109,7 +1109,7 @@
             "c": "Alianzas",
             "d": "Quiebra de bancos"
           },
-          "respuesta_correcta": "Alianzas"
+          "respuesta_correcta": "c"
         },
         {
           "materia": "Historia Universal",
@@ -1120,7 +1120,7 @@
             "c": "Supresión de los derechos individuales",
             "d": "Estado de derecho y democracia"
           },
-          "respuesta_correcta": "Supresión de los derechos individuales"
+          "respuesta_correcta": "c"
         },
   
   
@@ -1140,12 +1140,12 @@
       "materia": "Literatura",
       "pregunta": "¿Género antiguo que narra hazañas de hombres y héroes?",
       "opciones": {
-        "a": "Épico",
-        "b": "Drama",
+        "a": "Drama",
+        "b": "Épico",
         "c": "Lírica",
         "d": "Narrativo"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "b"
     },
     {
       "materia": "Literatura",
@@ -1162,23 +1162,23 @@
       "materia": "Literatura",
       "pregunta": "¿Movimiento literario al cual pertenece Azul y Prosas profanas?",
       "opciones": {
-        "a": "Modernismo",
+        "a": "Naturalismo",
         "b": "Realismo",
-        "c": "Naturalismo",
+        "c": "Modernismo",
         "d": "Barroco"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "c"
     },
     {
       "materia": "Literatura",
       "pregunta": "¿Autor de la epopeya romana más importante de la Edad de Oro La Eneida?",
       "opciones": {
-        "a": "Virgilio",
+        "a": "Ovidio",
         "b": "Homero",
-        "c": "Ovidio",
+        "c": "Virgilio",
         "d": "Horacio"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "c"
     },
     {
       "materia": "Literatura",
@@ -1195,12 +1195,12 @@
       "materia": "Literatura",
       "pregunta": "¿Corriente artística del siglo XIX que describe la vida del hombre de forma fiel y objetiva?",
       "opciones": {
-        "a": "Realismo",
+        "a": "Barroco",
         "b": "Modernismo",
         "c": "Romanticismo",
-        "d": "Barroco"
+        "d": "Realismo"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "d"
     },
     {
       "materia": "Literatura",
@@ -1217,23 +1217,23 @@
       "materia": "Literatura",
       "pregunta": "¿Cultura de la antigüedad oriental que aportó la escritura?",
       "opciones": {
-        "a": "Mesopotámica",
+        "a": "China",
         "b": "Egipcia",
-        "c": "China",
+        "c": "Mesopotámica",
         "d": "Griega"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "c"
     },
     {
       "materia": "Literatura",
       "pregunta": "¿Cultura antigua que aportó el papiro a la humanidad?",
       "opciones": {
-        "a": "Egipcia",
+        "a": "Griega",
         "b": "Mesopotámica",
         "c": "China",
-        "d": "Griega"
+        "d": "Egipcia"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "d"
     },
     {
       "materia": "Literatura",
@@ -1250,23 +1250,23 @@
       "materia": "Literatura",
       "pregunta": "¿Estructura de la novela?",
       "opciones": {
-        "a": "Narrativa",
-        "b": "Lírica",
+        "a": "Lírica",
+        "b": "Narrativa",
         "c": "Épica",
         "d": "Didáctica"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "b"
     },
     {
       "materia": "Literatura",
       "pregunta": "¿Cuenta la guerra de dos familias reales de la India?",
       "opciones": {
-        "a": "Mahabharata",
+        "a": "La Odisea",
         "b": "La Ilíada",
-        "c": "La Odisea",
+        "c": "Mahabharata",
         "d": "El Ramayana"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "c"
     },
     {
       "materia": "Literatura",
@@ -1283,12 +1283,12 @@
       "materia": "Literatura",
       "pregunta": "¿Representante del género erótico, poeta romano de la Edad de Oro?",
       "opciones": {
-        "a": "Ovidio",
+        "a": "Horacio",
         "b": "Virgilio",
-        "c": "Horacio",
+        "c": "Ovidio",
         "d": "Plauto"
       },
-      "respuesta_correcta": "a"
+      "respuesta_correcta": "c"
     },
     
     {
@@ -1317,12 +1317,12 @@
         "materia": "Literatura",
         "pregunta": "¿Representante de la comedia griega?",
         "opciones": {
-          "a": "Aristófanes",
-          "b": "Sófocles",
+          "a": "Sófocles",
+          "b": "Aristófanes",
           "c": "Eurípides",
           "d": "Esquilo"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Literatura",
@@ -1339,34 +1339,34 @@
         "materia": "Literatura",
         "pregunta": "¿Obras literarias del siglo XVIII, poemas que representan el amor entre un poeta y su dama?",
         "opciones": {
-          "a": "Lírica trovadoresca",
+          "a": "Comedia",
           "b": "Épica",
           "c": "Tragedia",
-          "d": "Comedia"
+          "d": "Lírica trovadoresca"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Literatura",
         "pregunta": "¿Corriente artística del siglo XIX que describe la vida del hombre de forma fiel y objetiva?",
         "opciones": {
-          "a": "Realismo",
-          "b": "Romanticismo",
+          "a": "Romanticismo",
+          "b": "Realismo",
           "c": "Modernismo",
           "d": "Naturalismo"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Literatura",
         "pregunta": "¿Género narrativo que explica de manera fantástica el origen de la naturaleza y el hombre?",
         "opciones": {
-          "a": "Mito",
+          "a": "Leyenda",
           "b": "Epopeya",
-          "c": "Leyenda",
+          "c": "Mito",
           "d": "Fábula"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Literatura",
@@ -1394,34 +1394,34 @@
         "materia": "Literatura",
         "pregunta": "¿Poeta que inició la corriente modernista?",
         "opciones": {
-          "a": "Rubén Darío",
+          "a": "Amado Nervo",
           "b": "José Asunción Silva",
           "c": "Leopoldo Lugones",
-          "d": "Amado Nervo"
+          "d": "Rubén Darío"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "d"
       },
       {
         "materia": "Literatura",
         "pregunta": "¿Pieza teatral que tiene un solo personaje principal y está predestinado con un final funesto?",
         "opciones": {
-          "a": "Tragedia",
+          "a": "Drama",
           "b": "Comedia",
-          "c": "Drama",
+          "c": "Tragedia",
           "d": "Monólogo"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "c"
       },
       {
         "materia": "Literatura",
         "pregunta": "¿Narración corta que se caracteriza por su brevedad, tensión y rápido desenlace?",
         "opciones": {
-          "a": "Cuento",
-          "b": "Novela corta",
+          "a": "Novela corta",
+          "b": "Cuento",
           "c": "Fábula",
           "d": "Relato"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Literatura",
@@ -1438,23 +1438,23 @@
         "materia": "Literatura",
         "pregunta": "¿Género literario cuyo formato es el verso y expresa sentimientos, emociones e inquietudes humanas. Es subjetivo?",
         "opciones": {
-          "a": "Lírico",
-          "b": "Épico",
+          "a": "Épico",
+          "b": "Lírico",
           "c": "Dramático",
           "d": "Narrativo"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "b"
       },
       {
         "materia": "Literatura",
         "pregunta": "¿Género literario que está escrito en diálogo, tiene acotaciones y surgió en la antigua Grecia?",
         "opciones": {
-          "a": "Dramático",
+          "a": "Narrativo",
           "b": "Épico",
           "c": "Lírico",
-          "d": "Narrativo"
+          "d": "Dramático"
         },
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "d"
       },
   
   {
@@ -1472,23 +1472,23 @@
      "materia": "Literatura",
      "pregunta": "¿Género de la literatura que cuenta, narra y relata. Pertenecen a éste la novela, el cuento, la leyenda, el mito, etc.?",
      "opciones": {
-       "a": "Épico",
+       "a": "Dramático",
        "b": "Lírico",
-       "c": "Dramático",
+       "c": "Épico",
        "d": "Narrativo"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "c"
    },
    {
      "materia": "Literatura",
      "pregunta": "¿Corriente del arte que abarcó la segunda mitad del siglo XIX y surgió en Francia. Se opone al Romanticismo?",
      "opciones": {
-       "a": "Realismo",
+       "a": "Modernismo",
        "b": "Naturalismo",
-       "c": "Modernismo",
+       "c": "Realismo",
        "d": "Barroco"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "c"
    },
    {
      "materia": "Literatura",
@@ -1516,23 +1516,23 @@
      "materia": "Literatura",
      "pregunta": "¿Qué figura retórica predomina en la siguiente expresión? “Floralba, a las piedras les das alma”?",
      "opciones": {
-       "a": "Hipérbole",
-       "b": "Metáfora",
+       "a": "Metáfora",
+       "b": "Hipérbole",
        "c": "Personificación",
        "d": "Símil o comparación"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "b"
    },
    {
      "materia": "Literatura",
      "pregunta": "¿Qué figura retórica predomina en… “se fue, se fue como el ave hermosa”?",
      "opciones": {
-       "a": "Símil o comparación",
+       "a": "Personificación",
        "b": "Metáfora",
        "c": "Hipérbole",
-       "d": "Personificación"
+       "d": "Símil o comparación"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "d"
    },
    {
      "materia": "Literatura",
@@ -1549,23 +1549,23 @@
      "materia": "Literatura",
      "pregunta": "¿Cómo es la estructura de la novela?",
      "opciones": {
-       "a": "Compleja",
+       "a": "Cíclica",
        "b": "Sencilla",
        "c": "Lineal",
-       "d": "Cíclica"
+       "d": "Compleja"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "d"
    },
    {
      "materia": "Literatura",
      "pregunta": "¿Texto dramático surgido en Grecia que critica los vicios humanos, el personaje pertenece a la nobleza y el dolor sobrepasa al protagonista?",
      "opciones": {
-       "a": "Tragedia",
+       "a": "Drama",
        "b": "Comedia",
-       "c": "Drama",
+       "c": "Tragedia",
        "d": "Epopeya"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "c"
    },
    {
      "materia": "Literatura",
@@ -1593,23 +1593,23 @@
      "materia": "Literatura",
      "pregunta": "¿Son obras del Romanticismo?",
      "opciones": {
-       "a": "Rimas y Leyendas",
+       "a": "La Eneida",
        "b": "Azul y cuentos de vida y esperanza",
-       "c": "La Eneida",
+       "c": "Rimas y Leyendas",
        "d": "Tragedia"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "c"
    },
    {
      "materia": "Literatura",
      "pregunta": "¿Variante del Realismo que describe y analiza la realidad sórdida, cruda y miserable del hombre?",
      "opciones": {
-       "a": "Naturalismo",
+       "a": "Modernismo",
        "b": "Romanticismo",
        "c": "Realismo",
-       "d": "Modernismo"
+       "d": "Naturalismo"
      },
-     "respuesta_correcta": "a"
+     "respuesta_correcta": "d"
    },
    {
      "materia": "Literatura",
@@ -1627,34 +1627,34 @@
        "materia": "Literatura",
        "pregunta": "¿Es una característica del modernismo?",
        "opciones": {
-         "a": "La musicalidad",
-         "b": "La sencillez",
+         "a": "La sencillez",
+         "b": "La musicalidad",
          "c": "El realismo",
          "d": "La objetividad"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "b"
      },
      {
        "materia": "Literatura",
        "pregunta": "¿Característica del romanticismo?",
        "opciones": {
-         "a": "Individualidad",
+         "a": "Realismo",
          "b": "Colectivismo",
-         "c": "Realismo",
+         "c": "Individualidad",
          "d": "Objetividad"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "c"
      },
      {
        "materia": "Literatura",
        "pregunta": "¿Verso de 14 sílabas?",
        "opciones": {
-         "a": "Alejandrino",
+         "a": "Octosílabo",
          "b": "Endecasílabo",
          "c": "Lira",
-         "d": "Octosílabo"
+         "d": "Alejandrino"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "d"
      },
      {
        "materia": "Literatura",
@@ -1682,23 +1682,23 @@
        "materia": "Literatura",
        "pregunta": "¿Año en que surge el romanticismo?",
        "opciones": {
-         "a": "1808",
-         "b": "1750",
+         "a": "1750",
+         "b": "1808",
          "c": "1900",
          "d": "1850"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "b"
      },
      {
        "materia": "Literatura",
        "pregunta": "¿A qué género narrativo pertenece la novela?",
        "opciones": {
-         "a": "Épico",
+         "a": "Dramático",
          "b": "Lírico",
-         "c": "Dramático",
+         "c": "Épico",
          "d": "Didáctico"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "c"
      },
      {
        "materia": "Literatura",
@@ -1726,23 +1726,23 @@
        "materia": "Literatura",
        "pregunta": "Constituye en el relato la parte que sucede inmediatamente después del momento culminante de la narración",
        "opciones": {
-         "a": "Desenlace",
+         "a": "Clímax",
          "b": "Inicio",
-         "c": "Clímax",
+         "c": "Desenlace",
          "d": "Exposición"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "c"
      },
      {
        "materia": "Literatura",
        "pregunta": "Movimiento armónico que se encuentra en el poema",
        "opciones": {
-         "a": "Ritmo",
+         "a": "Verso",
          "b": "Rima",
          "c": "Estrofa",
-         "d": "Verso"
+         "d": "Ritmo"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "d"
      },
      {
        "materia": "Literatura",
@@ -1759,34 +1759,34 @@
        "materia": "Literatura",
        "pregunta": "Representante de la comedia romana",
        "opciones": {
-         "a": "Plauto",
-         "b": "Terencio",
+         "a": "Terencio",
+         "b": "Plauto",
          "c": "Cicerón",
          "d": "Horacio"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "b"
      },
      {
        "materia": "Literatura",
        "pregunta": "Autor de la Guerra de las Galias",
        "opciones": {
-         "a": "Cayo Julio Cesar",
+         "a": "Marco Antonio",
          "b": "Octavio Augusto",
-         "c": "Marco Antonio",
+         "c": "Cayo Julio Cesar",
          "d": "Tito Livio"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "c"
      },
      {
        "materia": "Literatura",
        "pregunta": "¿A qué género pertenece el Mio Cid?",
        "opciones": {
-         "a": "Épico",
+         "a": "Narrativo",
          "b": "Lírico",
          "c": "Dramático",
-         "d": "Narrativo"
+         "d": "Épico"
        },
-       "respuesta_correcta": "a"
+       "respuesta_correcta": "d"
      },
      
      
@@ -1796,12 +1796,12 @@
          "materia": "Geografía",
          "pregunta": "¿Cuál es la mayor actividad industrial de Monterrey?",
          "opciones": {
-           "a": "Siderurgia",
+           "a": "Alimentos",
            "b": "Textil",
            "c": "Automotriz",
-           "d": "Alimentos"
+           "d": "Siderurgia"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "d"
        },
        {
          "materia": "Geografía",
@@ -1818,45 +1818,45 @@
          "materia": "Geografía",
          "pregunta": "¿En qué año se creó el Muro de Berlín?",
          "opciones": {
-           "a": "1961",
+           "a": "1953",
            "b": "1945",
-           "c": "1953",
+           "c": "1961",
            "d": "1989"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "c"
        },
        {
          "materia": "Geografía",
          "pregunta": "¿Sobre qué placa tectónica se encuentra nuestro país?",
          "opciones": {
-           "a": "Norteamericana",
-           "b": "Eurasiática",
+           "a": "Eurasiática",
+           "b": "Norteamericana",
            "c": "Sudamericana",
            "d": "Africana"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "b"
        },
        {
          "materia": "Geografía",
          "pregunta": "¿Cuál es el estado con mayor producción de petróleo?",
          "opciones": {
-           "a": "Campeche",
-           "b": "Tabasco",
+           "a": "Tabasco",
+           "b": "Campeche",
            "c": "Veracruz",
            "d": "Chiapas"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "b"
        },
        {
          "materia": "Geografía",
          "pregunta": "¿Cuál es la cordillera que separa a Europa de Asia?",
          "opciones": {
-           "a": "Montes Urales",
+           "a": "Montes Apeninos",
            "b": "Montañas Rocosas",
-           "c": "Montes Apeninos",
+           "c": "Montes Urales",
            "d": "Cordillera de los Andes"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "c"
        },
        {
          "materia": "Geografía",
@@ -1873,12 +1873,12 @@
          "materia": "Geografía",
          "pregunta": "¿Es el año que inicia el primero de enero y termina el 31 de diciembre, consta de 365 días?",
          "opciones": {
-           "a": "Año civil",
+           "a": "Año solar",
            "b": "Año bisiesto",
            "c": "Año lunar",
-           "d": "Año solar"
+           "d": "Año civil"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "d"
        },
        {
          "materia": "Geografía",
@@ -1895,12 +1895,12 @@
          "materia": "Geografía",
          "pregunta": "¿La línea internacional del tiempo se localiza imaginariamente en?",
          "opciones": {
-           "a": "Antimeridiano",
-           "b": "Ecuador",
+           "a": "Ecuador",
+           "b": "Antimeridiano",
            "c": "Meridiano de Greenwich",
            "d": "Trópico de Capricornio"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "b"
        },
        {
          "materia": "Geografía",
@@ -1917,23 +1917,23 @@
          "materia": "Geografía",
          "pregunta": "¿Capa de la Tierra que da origen al magnetismo terrestre?",
          "opciones": {
-           "a": "Núcleo externo",
+           "a": "Núcleo interno",
            "b": "Corteza",
            "c": "Manto inferior",
-           "d": "Núcleo interno"
+           "d": "Núcleo externo"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "d"
        },
        {
          "materia": "Geografía",
          "pregunta": "¿Capa de la Tierra que presenta el mayor espesor?",
          "opciones": {
-           "a": "Núcleo externo",
+           "a": "Manto superior",
            "b": "Corteza continental",
-           "c": "Manto superior",
+           "c": "Núcleo externo",
            "d": "Núcleo interno"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "c"
        },
        {
          "materia": "Geografía",
@@ -1950,12 +1950,12 @@
          "materia": "Geografía",
          "pregunta": "¿Capa de la Tierra formada por roca de granito principalmente?",
          "opciones": {
-           "a": "Corteza continental",
-           "b": "Manto superior",
+           "a": "Manto superior",
+           "b": "Corteza continental",
            "c": "Corteza oceánica",
            "d": "Núcleo externo"
          },
-         "respuesta_correcta": "a"
+         "respuesta_correcta": "b"
        },
        
        
@@ -1963,12 +1963,12 @@
            "materia": "Geografía",
            "pregunta": "¿El manto superior tiene un espesor de?",
            "opciones": {
-             "a": "700 km",
+             "a": "1200 km",
              "b": "500 km",
              "c": "1000 km",
-             "d": "1200 km"
+             "d": "700 km"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "d"
          },
          {
            "materia": "Geografía",
@@ -1985,12 +1985,12 @@
            "materia": "Geografía",
            "pregunta": "¿Cuando se viaja de la Ciudad de México al estado de Veracruz, se cruza la Sierra?",
            "opciones": {
-             "a": "Sierra Madre Oriental",
-             "b": "Sierra Madre Occidental",
+             "a": "Sierra Madre Occidental",
+             "b": "Sierra Madre Oriental",
              "c": "Sierra Madre del Sur",
              "d": "Cordillera Volcánica Transversal"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "b"
          },
          {
            "materia": "Geografía",
@@ -2007,23 +2007,23 @@
            "materia": "Geografía",
            "pregunta": "¿Cuando se viaja de la Ciudad de México al estado de Guerrero, se cruza por?",
            "opciones": {
-             "a": "Sierra Madre del Sur",
+             "a": "Sierra Madre Occidental",
              "b": "Cordillera Volcánica Transversal",
-             "c": "Sierra Madre Occidental",
+             "c": "Sierra Madre del Sur",
              "d": "Sierra Madre Oriental"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "c"
          },
          {
            "materia": "Geografía",
            "pregunta": "¿La formación de los volcanes, cordilleras de la litosfera, son producto de las?",
            "opciones": {
-             "a": "Corrientes convectivas",
+             "a": "Movimientos sísmicos",
              "b": "Placas tectónicas",
              "c": "Fuerzas gravitacionales",
-             "d": "Movimientos sísmicos"
+             "d": "Corrientes convectivas"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "d"
          },
          {
            "materia": "Geografía",
@@ -2040,12 +2040,12 @@
            "materia": "Geografía",
            "pregunta": "¿Estados que tienen costa al Golfo de México?",
            "opciones": {
-             "a": "Tamaulipas, Veracruz, Tabasco y Campeche",
+             "a": "Sonora, Sinaloa, Nayarit, Jalisco",
              "b": "Jalisco, Colima, Michoacán, Guerrero",
-             "c": "Sonora, Sinaloa, Nayarit, Jalisco",
+             "c": "Tamaulipas, Veracruz, Tabasco y Campeche",
              "d": "Chiapas, Oaxaca, Guerrero, Puebla"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "c"
          },
          {
            "materia": "Geografía",
@@ -2062,41 +2062,41 @@
            "materia": "Geografía",
            "pregunta": "¿Estados que tienen frontera con Belice y Guatemala?",
            "opciones": {
-             "a": "Quintana Roo, Campeche, Tabasco, Chiapas",
-             "b": "Veracruz, Tabasco, Campeche, Yucatán",
+             "a": "Veracruz, Tabasco, Campeche, Yucatán",
+             "b": "Quintana Roo, Campeche, Tabasco, Chiapas",
              "c": "Tamaulipas, Coahuila, Nuevo León",
              "d": "Chiapas, Oaxaca, Puebla"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "b"
          },
          {
            "materia": "Geografía",
            "pregunta": "¿Estado que se ubica por sus coordenadas más al sur del país?",
            "opciones": {
-             "a": "Chiapas",
+             "a": "Oaxaca",
              "b": "Guerrero",
              "c": "Yucatán",
-             "d": "Oaxaca"
+             "d": "Chiapas"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "d"
          },
          {
            "materia": "Geografía",
            "pregunta": "¿Estado que se ubica por sus coordenadas más al norte del país?",
            "opciones": {
-             "a": "Baja California Norte",
+             "a": "Nuevo León",
              "b": "Sonora",
              "c": "Coahuila",
-             "d": "Nuevo León"
+             "d": "Baja California Norte"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "d"
          },
          {
            "materia": "Geografía",
            "pregunta": "¿Estados que limitan con Zacatecas?",
            "opciones": {
              "a": "San Luis Potosí, Guanajuato, Aguascalientes, Jalisco, Durango",
-             "b": "Nuevo León, San Luis Potosí, Coahuila, Guanajuato",
+             "b": "Tamaulipas, San Luis Potosí, Coahuila, Guanajuato",
              "c": "Zacatecas, Durango, Jalisco",
              "d": "Guerrero, Puebla, Veracruz"
            },
@@ -2106,12 +2106,12 @@
            "materia": "Geografía",
            "pregunta": "¿Estados que comprenden la península de Yucatán?",
            "opciones": {
-             "a": "Quintana Roo, Yucatán y Campeche",
-             "b": "Yucatán, Campeche, Tabasco",
+             "a": "Yucatán, Campeche, Tabasco",
+             "b": "Quintana Roo, Yucatán y Campeche",
              "c": "Veracruz, Quintana Roo, Campeche",
              "d": "Jalisco, Colima, Michoacán"
            },
-           "respuesta_correcta": "a"
+           "respuesta_correcta": "b"
          },
          {
            "materia": "Geografía",
@@ -2129,34 +2129,34 @@
              "materia": "Geografía",
              "pregunta": "¿Ríos fronterizos al norte de México?",
              "opciones": {
-               "a": "Bravo y Colorado",
+               "a": "Colorado y Pecos",
                "b": "Usumacinta y Hondo",
                "c": "Suchiate y Bravo",
-               "d": "Colorado y Pecos"
+               "d": "Bravo y Colorado"
              },
-             "respuesta_correcta": "a"
+             "respuesta_correcta": "d"
            },
            {
              "materia": "Geografía",
              "pregunta": "¿Ríos fronterizos al sur de México?",
              "opciones": {
-               "a": "Usumacinta y Suchiate",
+               "a": "Grijalva y Balsas",
                "b": "Bravo y Colorado",
-               "c": "Grijalva y Balsas",
+               "c": "Usumacinta y Suchiate",
                "d": "Hondo y Colorado"
              },
-             "respuesta_correcta": "e"
+             "respuesta_correcta": "c"
            },
            {
              "materia": "Geografía",
              "pregunta": "¿Los movimientos tectónicos se originan en el interior de?",
              "opciones": {
-               "a": "La corteza terrestre",
-               "b": "La corteza oceánica",
+               "a": "La corteza oceánica",
+               "b": "La corteza terrestre",
                "c": "El manto superior",
                "d": "El núcleo interno"
              },
-             "respuesta_correcta": "a"
+             "respuesta_correcta": "b"
            },
            {
              "materia": "Geografía",
