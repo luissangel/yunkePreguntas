@@ -10,6 +10,9 @@ import SwiftUI
 struct SeleccionCantidadView: View {
     let materia: String
     let opciones = [10, 15, 20]
+    @State private var volverAlInicio = false
+    
+
     
     var body: some View {
         VStack(spacing: 20) {
@@ -20,7 +23,8 @@ struct SeleccionCantidadView: View {
             ForEach(opciones, id: \.self) { cantidad in
                 NavigationLink(
                     destination: VistaPregunta(
-                        manager: PreguntaManager(materia: materia, cantidad: cantidad)
+                        manager: PreguntaManager(materia: materia, cantidad: cantidad),
+                        volverAlInicio: $volverAlInicio
                     )
                 ) {
                     Text("\(cantidad) preguntas")
@@ -34,5 +38,18 @@ struct SeleccionCantidadView: View {
         }
         .padding()
         .navigationTitle(materia)
+        
+        .onChange(of: volverAlInicio) { nuevoValor in
+            if nuevoValor {
+                // Volver a la vista raíz
+                volverAlInicio = false
+                // Esta línea cierra esta vista (SeleccionCantidadView)
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                    UIApplication.shared.sendAction(#selector(UIResponder.resignFirstResponder), to: nil, from: nil, for: nil)
+                }
+            }
+        }
+
     }
+    
 }

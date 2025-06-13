@@ -13,6 +13,8 @@ struct VistaPregunta: View {
     @State private var mostrarResultado = false
     @State private var mostrarFinal = false
     @Environment(\.presentationMode) var presentationMode
+    @Binding var volverAlInicio: Bool
+
 
     
     var body: some View {
@@ -69,11 +71,12 @@ struct VistaPregunta: View {
         }
         .padding()
         .sheet(isPresented: $mostrarFinal, onDismiss: {
-            // Al cerrar el resultado, se cierra también esta vista para regresar al menú
-            presentationMode.wrappedValue.dismiss()
+            volverAlInicio = true
         }) {
             ResultadoFinalView(puntaje: manager.aciertos, total: manager.limitePreguntas)
         }
+
+
 
 
     }
