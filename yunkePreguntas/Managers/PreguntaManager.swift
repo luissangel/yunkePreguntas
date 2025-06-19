@@ -4,9 +4,18 @@
 //
 //  Created by Luis Hernandez on 30/05/25.
 //
+
+//Importa funcionalidades básicas como manejo de archivos, JSON, etc.
+//(No se usa SwiftUI aquí porque esta clase no tiene vistas, solo lógica.)
+
 import Foundation
 
 class PreguntaManager: ObservableObject {
+    
+//Estas propiedades tienen @Published, lo que significa que:
+//Cuando cambian, cualquier vista que las esté observando se actualizará automáticamente.
+//State es diferente de published porque el primero es en una view y el segundo se usa en una clase, swiftui observa la clase mientras directamente observa el state, publisehd puede ser modificado por cualquier parte que tenga acceso al objeto mientras que state solo lo modifica la vista
+    
     @Published var preguntas: [Pregunta] = []
     @Published var preguntaActual: Pregunta?
     @Published var preguntasContestadas = 0
