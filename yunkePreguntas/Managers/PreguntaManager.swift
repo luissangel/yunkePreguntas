@@ -17,6 +17,7 @@ class PreguntaManager: ObservableObject {
 //State es diferente de published porque el primero es en una view y el segundo se usa en una clase, swiftui observa la clase mientras directamente observa el state, publisehd puede ser modificado por cualquier parte que tenga acceso al objeto mientras que state solo lo modifica la vista
     
     @Published var preguntas: [Pregunta] = []
+//    puede tener valor pero puede ser nil por eso el ?
     @Published var preguntaActual: Pregunta?
     @Published var preguntasContestadas = 0
     @Published var aciertos = 0
