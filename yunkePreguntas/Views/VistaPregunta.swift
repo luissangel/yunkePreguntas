@@ -9,6 +9,7 @@ import SwiftUI
 
 
 //vista pregunta a diferencia de contenido pregunta utilzia el manager y muestra mas cosas o almacena información con lógica mientras que contenido pregunta solo muestra las preguntas con las opciones
+
 struct VistaPregunta: View {
     @ObservedObject var manager: PreguntaManager
     @State private var respuestaSeleccionada: String? = nil
@@ -17,8 +18,6 @@ struct VistaPregunta: View {
     @Environment(\.presentationMode) var presentationMode
     @Binding var volverAlInicio: Bool
 
-
-    
     var body: some View {
         VStack(spacing: 20) {
             if let pregunta = manager.preguntaActual {
@@ -59,7 +58,6 @@ struct VistaPregunta: View {
                         } else {
                             manager.siguientePregunta()
                         }
-//   En esta parte es donde se registran los aciertos
                         manager.responder(correcta: respuestaSeleccionada == pregunta.respuesta_correcta)
                         respuestaSeleccionada = nil
                         mostrarResultado = false
@@ -74,14 +72,14 @@ struct VistaPregunta: View {
         }
         .padding()
         .sheet(isPresented: $mostrarFinal, onDismiss: {
-            volverAlInicio = true
+            if self.volverAlInicio {
+                 self.presentationMode.wrappedValue.dismiss()
+            }
         }) {
-            ResultadoFinalView(puntaje: manager.aciertos, total: manager.limitePreguntas)
+            // ¡Esta es la línea que debes corregir!
+            // El orden de los argumentos debe coincidir con el orden de las propiedades en ResultadoFinalView
+            ResultadoFinalView(volverAlInicio: $volverAlInicio, puntaje: manager.aciertos, total: manager.limitePreguntas)
         }
-
-
-
-
     }
 
     func verificarRespuesta(_ clave: String) {
