@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct ResultadoFinalView: View {
+    
+    
+    
     let puntaje: Int
     let total: Int
 

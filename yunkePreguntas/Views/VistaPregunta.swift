@@ -8,7 +8,7 @@
 import SwiftUI
 
 
-//vista pregunta a diferencia de contenido pregunta utilzia el manager y muestra mas cosas o almacena información con lógica mientras que contenido pregunta solo muestra las oreguntas con las opciones 
+//vista pregunta a diferencia de contenido pregunta utilzia el manager y muestra mas cosas o almacena información con lógica mientras que contenido pregunta solo muestra las preguntas con las opciones
 struct VistaPregunta: View {
     @ObservedObject var manager: PreguntaManager
     @State private var respuestaSeleccionada: String? = nil

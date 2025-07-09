@@ -1,0 +1,6 @@
+framework module Pods_yunkePreguntas {
+  umbrella header "Pods-yunkePreguntas-umbrella.h"
+
+  export *
+  module * { export * }
+}

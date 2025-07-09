@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		11302B74B4368F6B56139EBA /* Pods_yunkePreguntasTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E78A46775FEB323C34C9A280 /* Pods_yunkePreguntasTests.framework */; };
+		69C507FE884A7DA5384516DF /* Pods_yunkePreguntas_yunkePreguntasUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48E191283F1ED8BFF408B382 /* Pods_yunkePreguntas_yunkePreguntasUITests.framework */; };
+		77F2D3745B25DF1E7A936100 /* Pods_yunkePreguntas.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69044C468CBEBE96A2C442DC /* Pods_yunkePreguntas.framework */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		CA200C6A2DE980B400E48B0F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,14 +30,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18056830CF5922486C27D824 /* Pods-yunkePreguntasTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntasTests.release.xcconfig"; path = "Target Support Files/Pods-yunkePreguntasTests/Pods-yunkePreguntasTests.release.xcconfig"; sourceTree = "<group>"; };
+		48E191283F1ED8BFF408B382 /* Pods_yunkePreguntas_yunkePreguntasUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yunkePreguntas_yunkePreguntasUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		612DDC1854187E33C922ABDB /* Pods-yunkePreguntas-yunkePreguntasUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntas-yunkePreguntasUITests.release.xcconfig"; path = "Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests.release.xcconfig"; sourceTree = "<group>"; };
+		69044C468CBEBE96A2C442DC /* Pods_yunkePreguntas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yunkePreguntas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		707BAE3293F11D387DF98ACD /* Pods-yunkePreguntas.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntas.release.xcconfig"; path = "Target Support Files/Pods-yunkePreguntas/Pods-yunkePreguntas.release.xcconfig"; sourceTree = "<group>"; };
+		B7849949EE7CADB260D4CEB3 /* Pods-yunkePreguntas.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntas.debug.xcconfig"; path = "Target Support Files/Pods-yunkePreguntas/Pods-yunkePreguntas.debug.xcconfig"; sourceTree = "<group>"; };
 		CA200C592DE980B300E48B0F /* yunkePreguntas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yunkePreguntas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA200C692DE980B400E48B0F /* yunkePreguntasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yunkePreguntasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA200C732DE980B400E48B0F /* yunkePreguntasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yunkePreguntasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC5F5C2F23AA765BF5E9815D /* Pods-yunkePreguntasTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntasTests.debug.xcconfig"; path = "Target Support Files/Pods-yunkePreguntasTests/Pods-yunkePreguntasTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E78A46775FEB323C34C9A280 /* Pods_yunkePreguntasTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yunkePreguntasTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC60A6075DBA6FA8B94AFD47 /* Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig"; path = "Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		CAA46EC32E18872D001195F3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = CA200C582DE980B300E48B0F /* yunkePreguntas */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		CA200C5B2DE980B300E48B0F /* yunkePreguntas */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				CAA46EC32E18872D001195F3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
+			);
 			path = yunkePreguntas;
 			sourceTree = "<group>";
 		};
@@ -52,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77F2D3745B25DF1E7A936100 /* Pods_yunkePreguntas.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11302B74B4368F6B56139EBA /* Pods_yunkePreguntasTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,12 +96,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69C507FE884A7DA5384516DF /* Pods_yunkePreguntas_yunkePreguntasUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		239EC782F4E40BDBCE3FC3E6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B7849949EE7CADB260D4CEB3 /* Pods-yunkePreguntas.debug.xcconfig */,
+				707BAE3293F11D387DF98ACD /* Pods-yunkePreguntas.release.xcconfig */,
+				EC60A6075DBA6FA8B94AFD47 /* Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig */,
+				612DDC1854187E33C922ABDB /* Pods-yunkePreguntas-yunkePreguntasUITests.release.xcconfig */,
+				CC5F5C2F23AA765BF5E9815D /* Pods-yunkePreguntasTests.debug.xcconfig */,
+				18056830CF5922486C27D824 /* Pods-yunkePreguntasTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C18F8B5A5A8B955EFE885F71 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				69044C468CBEBE96A2C442DC /* Pods_yunkePreguntas.framework */,
+				48E191283F1ED8BFF408B382 /* Pods_yunkePreguntas_yunkePreguntasUITests.framework */,
+				E78A46775FEB323C34C9A280 /* Pods_yunkePreguntasTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		CA200C502DE980B300E48B0F = {
 			isa = PBXGroup;
 			children = (
@@ -79,6 +133,8 @@
 				CA200C6C2DE980B400E48B0F /* yunkePreguntasTests */,
 				CA200C762DE980B400E48B0F /* yunkePreguntasUITests */,
 				CA200C5A2DE980B300E48B0F /* Products */,
+				239EC782F4E40BDBCE3FC3E6 /* Pods */,
+				C18F8B5A5A8B955EFE885F71 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,9 +155,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CA200C7D2DE980B400E48B0F /* Build configuration list for PBXNativeTarget "yunkePreguntas" */;
 			buildPhases = (
+				A6EF644A0599DA60F977EFF8 /* [CP] Check Pods Manifest.lock */,
 				CA200C552DE980B300E48B0F /* Sources */,
 				CA200C562DE980B300E48B0F /* Frameworks */,
 				CA200C572DE980B300E48B0F /* Resources */,
+				A1BC5BBBA3B22EC51898AF93 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -111,8 +169,6 @@
 				CA200C5B2DE980B300E48B0F /* yunkePreguntas */,
 			);
 			name = yunkePreguntas;
-			packageProductDependencies = (
-			);
 			productName = yunkePreguntas;
 			productReference = CA200C592DE980B300E48B0F /* yunkePreguntas.app */;
 			productType = "com.apple.product-type.application";
@@ -121,6 +177,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CA200C802DE980B400E48B0F /* Build configuration list for PBXNativeTarget "yunkePreguntasTests" */;
 			buildPhases = (
+				6E3DC38A44452FFBC1084B31 /* [CP] Check Pods Manifest.lock */,
 				CA200C652DE980B400E48B0F /* Sources */,
 				CA200C662DE980B400E48B0F /* Frameworks */,
 				CA200C672DE980B400E48B0F /* Resources */,
@@ -134,8 +191,6 @@
 				CA200C6C2DE980B400E48B0F /* yunkePreguntasTests */,
 			);
 			name = yunkePreguntasTests;
-			packageProductDependencies = (
-			);
 			productName = yunkePreguntasTests;
 			productReference = CA200C692DE980B400E48B0F /* yunkePreguntasTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -144,9 +199,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CA200C832DE980B400E48B0F /* Build configuration list for PBXNativeTarget "yunkePreguntasUITests" */;
 			buildPhases = (
+				3264204E020B6667DB6DDC31 /* [CP] Check Pods Manifest.lock */,
 				CA200C6F2DE980B400E48B0F /* Sources */,
 				CA200C702DE980B400E48B0F /* Frameworks */,
 				CA200C712DE980B400E48B0F /* Resources */,
+				86C47AA0837BA84FB3FB897B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -157,8 +214,6 @@
 				CA200C762DE980B400E48B0F /* yunkePreguntasUITests */,
 			);
 			name = yunkePreguntasUITests;
-			packageProductDependencies = (
-			);
 			productName = yunkePreguntasUITests;
 			productReference = CA200C732DE980B400E48B0F /* yunkePreguntasUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -230,6 +285,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3264204E020B6667DB6DDC31 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-yunkePreguntas-yunkePreguntasUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6E3DC38A44452FFBC1084B31 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-yunkePreguntasTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		86C47AA0837BA84FB3FB897B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A1BC5BBBA3B22EC51898AF93 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas/Pods-yunkePreguntas-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas/Pods-yunkePreguntas-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-yunkePreguntas/Pods-yunkePreguntas-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A6EF644A0599DA60F977EFF8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-yunkePreguntas-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		CA200C552DE980B300E48B0F /* Sources */ = {
@@ -390,14 +548,18 @@
 		};
 		CA200C7E2DE980B400E48B0F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7849949EE7CADB260D4CEB3 /* Pods-yunkePreguntas.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"yunkePreguntas/Preview Content\"";
+				DEVELOPMENT_TEAM = V696G374YH;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -418,14 +580,18 @@
 		};
 		CA200C7F2DE980B400E48B0F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 707BAE3293F11D387DF98ACD /* Pods-yunkePreguntas.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"yunkePreguntas/Preview Content\"";
+				DEVELOPMENT_TEAM = V696G374YH;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -446,6 +612,7 @@
 		};
 		CA200C812DE980B400E48B0F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC5F5C2F23AA765BF5E9815D /* Pods-yunkePreguntasTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -464,6 +631,7 @@
 		};
 		CA200C822DE980B400E48B0F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18056830CF5922486C27D824 /* Pods-yunkePreguntasTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -482,6 +650,7 @@
 		};
 		CA200C842DE980B400E48B0F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EC60A6075DBA6FA8B94AFD47 /* Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -498,6 +667,7 @@
 		};
 		CA200C852DE980B400E48B0F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 612DDC1854187E33C922ABDB /* Pods-yunkePreguntas-yunkePreguntasUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
