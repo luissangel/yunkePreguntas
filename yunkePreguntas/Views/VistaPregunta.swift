@@ -5,10 +5,8 @@
 //  Created by Luis Hernandez on 30/05/25.
 //
 
+
 import SwiftUI
-
-
-//vista pregunta a diferencia de contenido pregunta utilzia el manager y muestra mas cosas o almacena información con lógica mientras que contenido pregunta solo muestra las preguntas con las opciones
 
 struct VistaPregunta: View {
     @ObservedObject var manager: PreguntaManager
@@ -19,38 +17,87 @@ struct VistaPregunta: View {
     @Binding var volverAlInicio: Bool
 
     var body: some View {
-        VStack(spacing: 20) {
+        VStack(spacing: 25) { // Más espacio entre secciones
+            // Indicador de progreso/pregunta actual
+            Text("Pregunta \(manager.preguntasContestadas + 1) de \(manager.limitePreguntas)")
+                .font(.footnote)
+                .foregroundColor(.gray)
+                .padding(.bottom, 10)
+
             if let pregunta = manager.preguntaActual {
+                // Contenedor para la pregunta
                 Text(pregunta.pregunta)
-                    .font(.title2)
+                    .font(.title) // Más grande
+                    .fontWeight(.bold)
                     .multilineTextAlignment(.center)
                     .padding()
+                    .frame(maxWidth: .infinity)
+                    .background(
+                        RoundedRectangle(cornerRadius: 20) // Fondo de tarjeta para la pregunta
+                            .fill(Color.white)
+                            .shadow(color: Color.black.opacity(0.1), radius: 8, x: 0, y: 4)
+                    )
+                    .padding(.horizontal) // Margen lateral
 
-                ForEach(pregunta.opciones.sorted(by: { $0.key < $1.key }), id: \.key) { clave, texto in
-                    Button(action: {
-                        verificarRespuesta(clave)
-                    }) {
-                        Text("\(clave)) \(texto)")
-                            .foregroundColor(.black)
+                // Opciones de respuesta
+                VStack(spacing: 15) { // Espacio entre opciones
+                    ForEach(pregunta.opciones.sorted(by: { $0.key < $1.key }), id: \.key) { clave, texto in
+                        Button(action: {
+                            if !mostrarResultado { // Solo permite seleccionar si aún no se ha mostrado el resultado
+                                verificarRespuesta(clave)
+                            }
+                        }) {
+                            HStack {
+                                Text("\(clave))")
+                                    .font(.headline)
+                                    .fontWeight(.bold)
+                                    .frame(width: 25) // Ancho fijo para la letra
+                                Text(texto)
+                                    .font(.body)
+                                    .multilineTextAlignment(.leading)
+                                Spacer()
+                            }
                             .padding()
                             .frame(maxWidth: .infinity)
                             .background(
-                                mostrarResultado ?
-                                    (clave == pregunta.respuesta_correcta ? Color.green.opacity(0.5) :
-                                     clave == respuestaSeleccionada ? Color.red.opacity(0.5) : Color.gray.opacity(0.2)) :
-                                    Color.gray.opacity(0.2)
+                                // Lógica de color para el feedback visual
+                                RoundedRectangle(cornerRadius: 15)
+                                    .fill(
+                                        mostrarResultado ?
+                                            (clave == pregunta.respuesta_correcta ? Color.green.opacity(0.6) :
+                                             (clave == respuestaSeleccionada ? Color.red.opacity(0.6) : Color.gray.opacity(0.2))) :
+                                            Color.gray.opacity(0.15) // Color por defecto más claro
+                                    )
+                                    .shadow(color: Color.black.opacity(0.05), radius: 3, x: 0, y: 2)
                             )
-                            .cornerRadius(10)
+                            .foregroundColor(mostrarResultado && (clave == pregunta.respuesta_correcta || clave == respuestaSeleccionada) ? .white : .black) // Texto blanco para opciones correctas/incorrectas
+                            .scaleEffect(respuestaSeleccionada == clave && mostrarResultado ? 1.05 : 1.0) // Pequeña escala al seleccionar
+                            .animation(.easeOut(duration: 0.2), value: respuestaSeleccionada) // Animación al seleccionar
+                        }
+                        .disabled(mostrarResultado) // Deshabilita los botones después de responder
                     }
-                    .disabled(mostrarResultado)
                 }
+                .padding(.horizontal)
 
+                // Mensaje de resultado de la respuesta
                 if mostrarResultado {
-                    if respuestaSeleccionada == pregunta.respuesta_correcta {
-                        Text("✅ ¡Respuesta correcta!").foregroundColor(.green)
-                    } else {
-                        Text("❌ Incorrecto. La correcta era: \(pregunta.respuesta_correcta)").foregroundColor(.red)
+                    VStack {
+                        if respuestaSeleccionada == pregunta.respuesta_correcta {
+                            Text("✅ ¡Respuesta correcta!")
+                                .font(.title2)
+                                .fontWeight(.semibold)
+                                .foregroundColor(.green)
+                        } else {
+                            Text("❌ Incorrecto.")
+                                .font(.title2)
+                                .fontWeight(.semibold)
+                                .foregroundColor(.red)
+                            Text("La correcta era: \(pregunta.respuesta_correcta)) \(pregunta.opciones[pregunta.respuesta_correcta]!)")
+                                .font(.subheadline)
+                                .foregroundColor(.secondary)
+                        }
                     }
+                    .padding(.top, 10)
 
                     Button("Siguiente pregunta") {
                         if manager.preguntasContestadas + 1 >= manager.limitePreguntas {
@@ -62,22 +109,29 @@ struct VistaPregunta: View {
                         respuestaSeleccionada = nil
                         mostrarResultado = false
                     }
-                    .padding()
+                    .font(.headline)
+                    .padding(.vertical, 12)
+                    .padding(.horizontal, 30)
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(25)
+                    .transition(.opacity.animation(.easeIn(duration: 0.3))) // Animación al aparecer el botón
                 }
             } else {
                 Text("Cargando pregunta...")
+                    .font(.title2)
+                    .foregroundColor(.gray)
             }
 
             Spacer()
         }
-        .padding()
+        .padding(.vertical) // Padding general para la vista
+        .background(LinearGradient(gradient: Gradient(colors: [Color.white, Color.blue.opacity(0.05)]), startPoint: .top, endPoint: .bottom).ignoresSafeArea()) // Fondo degradado suave
         .sheet(isPresented: $mostrarFinal, onDismiss: {
             if self.volverAlInicio {
                  self.presentationMode.wrappedValue.dismiss()
             }
         }) {
-            // ¡Esta es la línea que debes corregir!
-            // El orden de los argumentos debe coincidir con el orden de las propiedades en ResultadoFinalView
             ResultadoFinalView(volverAlInicio: $volverAlInicio, puntaje: manager.aciertos, total: manager.limitePreguntas)
         }
     }
@@ -85,6 +139,9 @@ struct VistaPregunta: View {
     func verificarRespuesta(_ clave: String) {
         respuestaSeleccionada = clave
         mostrarResultado = true
+        // Puedes añadir aquí un feedback háptico (vibración)
+        // Por ejemplo: let impactMed = UIImpactFeedbackGenerator(style: .medium)
+        // impactMed.impactOccurred()
     }
 }
 
