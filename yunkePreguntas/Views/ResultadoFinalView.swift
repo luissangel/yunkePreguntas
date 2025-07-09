@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ResultadoFinalView: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
-    @Binding var volverAlInicio: Bool // <-- Recibe el binding de VistaPregunta
+    @Binding var volverAlInicio: Bool
 
     let puntaje: Int
     let total: Int
@@ -27,9 +27,9 @@ struct ResultadoFinalView: View {
                 .foregroundColor(.blue)
 
             Button("Volver a Materias") {
-                // 1. Descarta esta vista (ResultadoFinalView)
+                // Descarta esta vista (ResultadoFinalView)
                 self.presentationMode.wrappedValue.dismiss()
-                // 2. Establece el binding para que las vistas anteriores también se descarten
+                // Y establece el binding para que las vistas anteriores también se descarten
                 self.volverAlInicio = true
             }
             .padding()
@@ -38,7 +38,9 @@ struct ResultadoFinalView: View {
             .cornerRadius(10)
         }
         .padding()
-        .navigationBarBackButtonHidden(true) // Opcional: Oculta el botón de retroceso aquí
+        .navigationBarBackButtonHidden(true)
+        // ¡Esta es la línea clave! Deshabilita el cierre interactivo del sheet
+        .interactiveDismissDisabled(true)
     }
 }
 
