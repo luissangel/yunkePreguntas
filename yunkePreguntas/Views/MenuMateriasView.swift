@@ -5,6 +5,9 @@
 //  Created by Luis Hernandez on 30/05/25.
 //
 import SwiftUI
+import GoogleMobileAds
+import AppTrackingTransparency
+import AdSupport
 
 struct MenuMateriasView: View {
     let materias = ["Biología", "Historia de México", "Historia Universal", "Literatura", "Geografía"]
