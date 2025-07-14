@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>Esta aplicación utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia de usuario</string>
-	<key>CFBundleIdentifier</key>
-	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-3533060432708868~6249290484</string>
 	<key>SKAdNetworkItems</key>
@@ -13,6 +13,10 @@
 		<dict>
 			<key>SKAdNetworkIdentifier</key>
 			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+		<dict>
+			<key>UILaunchStoryboardName</key>
+			<string>Launch Screen.Storyboard</string>
 		</dict>
 		<dict>
 			<key>SKAdNetworkIdentifier</key>
@@ -206,10 +210,6 @@
 			<key>SKAdNetworkIdentifier</key>
 			<string>3qcr597p9d.skadnetwork</string>
 		</dict>
-	</array>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict/>
 	</array>
 </dict>
 </plist>
