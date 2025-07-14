@@ -69,7 +69,7 @@ struct SeleccionCantidadView: View {
         .navigationTitle("") // Ocultamos el título de la navegación si ya lo mostramos grande en la vista
         .navigationBarTitleDisplayMode(.inline) // Para que el espacio no sea tan grande si hay otro título
         .background(Color.blue.opacity(0.05).ignoresSafeArea()) // Fondo suave para toda la vista
-        .sheet(isPresented: $mostrarVistaPregunta, onDismiss: {
+        .fullScreenCover(isPresented: $mostrarVistaPregunta, onDismiss: {
             if self.shouldPopToRoot {
                 self.presentationMode.wrappedValue.dismiss()
             }

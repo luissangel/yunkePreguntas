@@ -51,6 +51,8 @@ private struct BannerViewContainer: UIViewRepresentable {
     
     func updateUIView(_ uiView: BannerView, context: Context) {}
 }
+
+
 func requestTrackingPermission() {
     ATTrackingManager.requestTrackingAuthorization { status in
         switch status {

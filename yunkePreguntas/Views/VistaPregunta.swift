@@ -7,6 +7,9 @@
 
 
 import SwiftUI
+import GoogleMobileAds
+import AppTrackingTransparency
+import AdSupport
 
 struct VistaPregunta: View {
     @ObservedObject var manager: PreguntaManager
@@ -124,7 +127,11 @@ struct VistaPregunta: View {
             }
 
             Spacer()
+            let adSize = currentOrientationAnchoredAdaptiveBanner(width: 375)
+            BannerViewContainer(adSize)
+                .frame(width: adSize.size.width, height: adSize.size.height)
         }
+        //aqui termina el vstack 
         .padding(.vertical) // Padding general para la vista
         .background(LinearGradient(gradient: Gradient(colors: [Color.white, Color.blue.opacity(0.05)]), startPoint: .top, endPoint: .bottom).ignoresSafeArea()) // Fondo degradado suave
         .sheet(isPresented: $mostrarFinal, onDismiss: {
@@ -145,6 +152,22 @@ struct VistaPregunta: View {
     }
 }
 
-
+private struct BannerViewContainer: UIViewRepresentable {
+    typealias UIViewType = BannerView
+    let adSize: AdSize
+    
+    init(_ adSize: AdSize) {
+        self.adSize = adSize
+    }
+    
+    func makeUIView(context: Context) -> BannerView {
+        let banner = BannerView(adSize: adSize)
+        banner.adUnitID = "ca-app-pub-3533060432708868/3650213154"
+        banner.load(Request())
+        return banner
+    }
+    
+    func updateUIView(_ uiView: BannerView, context: Context) {}
+}
 
 
