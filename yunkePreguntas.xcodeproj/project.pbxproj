@@ -45,7 +45,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CA5AC2FE2E2F48C400E25485 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
+		CACB028F2E2F4BE500DDEFB3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -58,7 +58,7 @@
 		CA200C5B2DE980B300E48B0F /* yunkePreguntas */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CA5AC2FE2E2F48C400E25485 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
+				CACB028F2E2F4BE500DDEFB3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
 			);
 			path = yunkePreguntas;
 			sourceTree = "<group>";
