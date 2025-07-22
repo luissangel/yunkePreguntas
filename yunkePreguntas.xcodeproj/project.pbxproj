@@ -561,7 +561,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ExamenUNAM;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicación utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia de usuario";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicaicón utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia del usuario";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -573,7 +573,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Yunke.yunkePreguntas;
+				PRODUCT_BUNDLE_IDENTIFIER = com.luishernandez.examenUNAM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -596,7 +596,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ExamenUNAM;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicación utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia de usuario";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicaicón utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia del usuario";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -608,7 +608,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Yunke.yunkePreguntas;
+				PRODUCT_BUNDLE_IDENTIFIER = com.luishernandez.examenUNAM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
