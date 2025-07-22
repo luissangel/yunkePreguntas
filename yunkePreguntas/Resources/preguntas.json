@@ -266,17 +266,7 @@
         },
         "respuesta_correcta": "d"
       },
-      {
-        "materia": "Historia de México",
-        "pregunta": "Relaciona las etapas de la revolución mexicana: 1. Antecedentes, 2. Inicio, 3. Constitucionalista, 4. Etapa de Reconstrucción, A) Álvaro Obregón y el Plan de Agua Prieta, B) Venustiano Carranza y Constitución de 1917, C) Huelga de Cananea y Río Blanco, D) Maderista, decena trágica, Plan de San Luis y movimiento zapatista",
-        "opciones": {
-          "a": "1-D, 2-C, 3-A, 4-B",
-          "b": "1-A, 2-B, 3-D, 4-C",
-          "c": "1-B, 2-A, 3-C, 4-D",
-          "d": "1-C, 2-D, 3-B, 4-A"
-        },
-        "respuesta_correcta": "d"
-      },
+      
       {
         "materia": "Historia de México",
         "pregunta": "¿Qué personaje proclama la Constitución de Apatzingán?",
