@@ -10,6 +10,7 @@
 		11302B74B4368F6B56139EBA /* Pods_yunkePreguntasTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E78A46775FEB323C34C9A280 /* Pods_yunkePreguntasTests.framework */; };
 		69C507FE884A7DA5384516DF /* Pods_yunkePreguntas_yunkePreguntasUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48E191283F1ED8BFF408B382 /* Pods_yunkePreguntas_yunkePreguntasUITests.framework */; };
 		77F2D3745B25DF1E7A936100 /* Pods_yunkePreguntas.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69044C468CBEBE96A2C442DC /* Pods_yunkePreguntas.framework */; };
+		CA2B17E22E30BD3000DA07F5 /* preguntas.json in Resources */ = {isa = PBXBuildFile; fileRef = CA2B17D42E30BD3000DA07F5 /* preguntas.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,13 +40,14 @@
 		CA200C592DE980B300E48B0F /* yunkePreguntas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yunkePreguntas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA200C692DE980B400E48B0F /* yunkePreguntasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yunkePreguntasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA200C732DE980B400E48B0F /* yunkePreguntasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yunkePreguntasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA2B17D42E30BD3000DA07F5 /* preguntas.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = preguntas.json; sourceTree = "<group>"; };
 		CC5F5C2F23AA765BF5E9815D /* Pods-yunkePreguntasTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntasTests.debug.xcconfig"; path = "Target Support Files/Pods-yunkePreguntasTests/Pods-yunkePreguntasTests.debug.xcconfig"; sourceTree = "<group>"; };
 		E78A46775FEB323C34C9A280 /* Pods_yunkePreguntasTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yunkePreguntasTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC60A6075DBA6FA8B94AFD47 /* Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig"; path = "Target Support Files/Pods-yunkePreguntas-yunkePreguntasUITests/Pods-yunkePreguntas-yunkePreguntasUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CA2B17F62E30BE2500DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
+		CA2B17FC2E30C00A00DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -58,7 +60,7 @@
 		CA200C5B2DE980B300E48B0F /* yunkePreguntas */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CA2B17F62E30BE2500DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
+				CA2B17FC2E30C00A00DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
 			);
 			path = yunkePreguntas;
 			sourceTree = "<group>";
@@ -129,6 +131,7 @@
 		CA200C502DE980B300E48B0F = {
 			isa = PBXGroup;
 			children = (
+				CA2B17D42E30BD3000DA07F5 /* preguntas.json */,
 				CA200C5B2DE980B300E48B0F /* yunkePreguntas */,
 				CA200C6C2DE980B400E48B0F /* yunkePreguntasTests */,
 				CA200C762DE980B400E48B0F /* yunkePreguntasUITests */,
@@ -267,6 +270,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA2B17E22E30BD3000DA07F5 /* preguntas.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
