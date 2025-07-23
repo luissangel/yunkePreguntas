@@ -45,7 +45,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CACB028F2E2F4BE500DDEFB3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
+		CA2B17F62E30BE2500DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -58,7 +58,7 @@
 		CA200C5B2DE980B300E48B0F /* yunkePreguntas */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CACB028F2E2F4BE500DDEFB3 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
+				CA2B17F62E30BE2500DA07F5 /* Exceptions for "yunkePreguntas" folder in "yunkePreguntas" target */,
 			);
 			path = yunkePreguntas;
 			sourceTree = "<group>";
@@ -561,7 +561,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ExamenUNAM;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "texto de prueba ";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicación utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia del usuario";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -596,7 +596,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = yunkePreguntas/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ExamenUNAM;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "texto de prueba ";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Esta aplicación utiliza datos para ofrecer anuncios personalizados y mejorar la experiencia del usuario";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
