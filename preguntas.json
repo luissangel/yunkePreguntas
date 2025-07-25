@@ -146,17 +146,6 @@
     },
     {
       "materia": "Historia de México",
-      "pregunta": "¿Cuáles son las Leyes de Reforma?",
-      "opciones": {
-        "a": "Ley de Registro Civil, Ley de Nacionalización de la Banca y Ley de Reforma Agraria",
-        "b": "Ley de Reforma Laboral, Ley de Desamortización de Bienes Comunales y Ley de Descentralización Administrativa",
-        "c": "Registro Civil, Supresión del fuero eclesiástico y desamortizar las propiedades de la iglesia.",
-        "d": "Ley de Reforma Educativa, Ley de Reforma Fiscal y Ley de Reforma Electoral"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "materia": "Historia de México",
       "pregunta": "¿En qué período Calles controlaba a tres presidentes?",
       "opciones": {
         "a": "Revolución Mexicana",
@@ -189,17 +178,7 @@
         },
         "respuesta_correcta": "d"
       },
-      {
-        "materia": "Historia de México",
-        "pregunta": "¿Cuáles son las características del gobierno de Plutarco Elías Calles?",
-        "opciones": {
-          "a": "Guerra Cristera, Maximato y Fundación del PAN",
-          "b": "Prohibición de la venta de alcohol, nacionalización de la banca y apertura comercial",
-          "c": "Guerra Cristera, Maximato y Fundación del PNR",
-          "d": "Prohibición de la libertad de prensa, dictadura y expropiación de tierras"
-        },
-        "respuesta_correcta": "c"
-      },
+      
       {
         "materia": "Historia de México",
         "pregunta": "¿Cuál fue el factor político de la Conquista de México-Tenochtitlan?",
@@ -277,17 +256,6 @@
           "d": "Vicente Guerrero"
         },
         "respuesta_correcta": "c"
-      },
-      {
-        "materia": "Historia de México",
-        "pregunta": "Relaciona los acontecimientos con su personaje: I. Sitiaron en Cuautla, II. Se retiraron antes de atacar la Ciudad de México, III. Traición a la Patria, IV. Iturbide se alió con…, a) Vicente Guerrero, b) Francisco Javier Mina, c) Miguel Hidalgo, d) José María Morelos",
-        "opciones": {
-          "a": "I-c, II-d, III-a, IV-b",
-          "b": "I-b, II-a, III-d, IV-c",
-          "c": "I-a, II-b, III-c, IV-d",
-          "d": "I-d, II-c, III-b, IV-a"
-        },
-        "respuesta_correcta": "d"
       },
       {
         "materia": "Historia de México",
@@ -948,17 +916,6 @@
       },
       {
         "materia": "Historia Universal",
-        "pregunta": "Ordena cronológicamente los siguientes acontecimientos de la Segunda Guerra Mundial: 1. Desembarco aliado en Normandía, 2. Ataque japonés a Pearl Harbor, 3. Guerra relámpago, 4. Batalla de Inglaterra, 5. Las bombas atómicas, 6. Invasión alemana a Polonia",
-        "opciones": {
-          "a": "6-3-4-2-1-5",
-          "b": "3-6-2-4-1-5",
-          "c": "6-4-3-2-5-1",
-          "d": "3-2-4-6-1-5"
-        },
-        "respuesta_correcta": "a"
-      },
-      {
-        "materia": "Historia Universal",
         "pregunta": "¿Dónde se crea la ONU?",
         "opciones": {
           "a": "En la conferencia de Yalta",
@@ -1013,17 +970,7 @@
           },
           "respuesta_correcta": "b"
         },
-        {
-          "materia": "Historia Universal",
-          "pregunta": "Ordena cronológicamente los siguientes acontecimientos durante la etapa de entreguerras: I. Hitler toma el poder, II. Stalin toma el poder en la URSS, III. Guerra Civil Española, IV. Crisis Capitalista, V. Creación de la URSS",
-          "opciones": {
-            "a": "V-IV-II-I-III",
-            "b": "IV-V-II-III-I",
-            "c": "V-II-IV-I-III",
-            "d": "IV-V-I-II-III"
-          },
-          "respuesta_correcta": "c"
-        },
+       
         {
           "materia": "Historia Universal",
           "pregunta": "¿En qué guerra se da el enfrentamiento entre la Triple Entente contra las Potencias Centrales?",
@@ -2014,17 +1961,6 @@
              "d": "Corrientes convectivas"
            },
            "respuesta_correcta": "d"
-         },
-         {
-           "materia": "Geografía",
-           "pregunta": "¿Estados que tienen costa al océano Pacífico?",
-           "opciones": {
-             "a": "Baja California Norte, Baja California Sur, Sonora, Sinaloa, Nayarit, Jalisco, Colima, Michoacán, Guerrero, Oaxaca y Chiapas",
-             "b": "Veracruz, Tabasco, Campeche, Quintana Roo, Yucatán",
-             "c": "Tamaulipas, Nuevo León, Coahuila, Chihuahua",
-             "d": "Puebla, Hidalgo, Tlaxcala, Morelos, Estado de México"
-           },
-           "respuesta_correcta": "a"
          },
          {
            "materia": "Geografía",
